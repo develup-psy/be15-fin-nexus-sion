@@ -209,4 +209,5 @@
 <img src="https://github.com/user-attachments/assets/a07a5d5a-6a9d-47db-a4db-0b7da8d493a9" />
 
 ### [🪄 Figma(화면설계서)](https://www.figma.com/design/TW7n0XzdVkNInCWernHCvD/be-15-fin?node-id=413-1769&t=sBHWtZHO7Nf4EZ2s-0)  <br>
+<img src="https://github.com/user-attachments/assets/d2008c31-1d79-44e9-a011-082bbf8ef6dc" />
 
