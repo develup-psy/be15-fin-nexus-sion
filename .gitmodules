@@ -1,0 +1,6 @@
+[submodule "sion-be"]
+	path = sion-be
+	url = https://github.com/be15-fin-Nexus-SION/be15-fin-Nexus-SION-BE
+[submodule "sion-fe"]
+	path = sion-fe
+	url = https://github.com/be15-fin-Nexus-SION/be15-fin-Nexus-SION-FE
