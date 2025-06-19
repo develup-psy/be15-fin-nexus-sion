@@ -200,15 +200,13 @@
 ### [🔡 요구사항 명세서](https://docs.google.com/spreadsheets/d/1GrDOmd987vaQiI3pSXLBK9NU2OWbMYGAb3edGdWXD0o/edit?gid=230510313#gid=230510313)  <br>
 
 ### 📟 시스템 아키텍쳐  <br>
+<img src="https://github.com/user-attachments/assets/001e9d98-2a3c-4948-a02b-9649b3b2de7b" />
 
 ### [🗃️ WBS](#-WBS)  <br>
 <img src="" />
 
 ### 📈 ERD <br>
 <img src="https://github.com/user-attachments/assets/a07a5d5a-6a9d-47db-a4db-0b7da8d493a9" />
-
-
-
 
 ### [🪄 Figma(화면설계서)](https://www.figma.com/design/TW7n0XzdVkNInCWernHCvD/be-15-fin?node-id=413-1769&t=sBHWtZHO7Nf4EZ2s-0)  <br>
 
