@@ -57,15 +57,14 @@
 
 ## 📜 목차
 
-#### [💡 기술 스택](#-기술-스택)  <br>
-#### [📢 프로젝트 소개](#-프로젝트-소개)  <br>
-#### [🐾 Catchy FE 테스트 결과 보고서](#-catchy-fe-테스트-결과-보고서)  <br>
-#### [🔡 요구사항 명세서](#-요구사항-명세서)  <br>
-#### [📟 REST API 명세서](#-rest-api-명세서)  <br>
-#### [🗃️ DB 모델링](#-db-모델링)  <br>
-#### [📈 플로우 차트](#-플로우-차트)  <br>
-#### [🪄 Figma](#-figma)  <br>
-#### [🛜 프로젝트 아키텍처](#-프로젝트-아키텍처)  <br>
+#### [💡 기술 스택] <br>
+#### [📢 프로젝트 소개]  <br>
+#### [🐾 프로젝트 기획서] <br>
+#### [🔡 요구사항 명세서]<br>
+#### [📟 시스템 아키텍쳐] <br>
+#### [🗃️ WBS]  <br>
+#### [📈 ERD]  <br>
+#### [🪄 Figma(화면설계서)] <br>
 
 <br>
 
@@ -138,7 +137,7 @@
 
 ## 📢 프로젝트 소개
 
-### 🐾 **Catchy: 고양이를 사랑하는 사람들을 위한 올인원 커뮤니티 플랫폼**
+### 🎥 **SION: AI 기반으로 기술 중심 인재를 추천하고 관리하는 통합 인사 운영 시스템**
 
 > 이 프로젝트는 프로젝트 수행에 필요한 인력을 빠르고 정확하게 구성할 수 있도록 돕는 AI 기반 인재풀 추천 및 스쿼드 구성 웹 어플리케이션입니다.
 사용자는 프로젝트의 도메인, 기술스택, 예산, 기간, 인원 구성 등의 조건을 입력하면, 시스템은 과거 이력과 기술 점수 등을 종합적으로 분석하여 최적의 인재를 자동
@@ -196,4 +195,20 @@
 - 각 회사는 별도의 DB에서 인재·프로젝트 정보 관리
 - 접근 권한과 관리자 권한 분리로 보안성 강화
 
+### [🐾 프로젝트 기획서](https://docs.google.com/document/d/1sGixpxJ4l9nXPV3sTUZbL084y2LVurlD_iGcDL25UAs/edit?tab=t.0)  <br>
+
+### [🔡 요구사항 명세서](https://docs.google.com/spreadsheets/d/1GrDOmd987vaQiI3pSXLBK9NU2OWbMYGAb3edGdWXD0o/edit?gid=230510313#gid=230510313)  <br>
+
+### 📟 시스템 아키텍쳐  <br>
+
+### [🗃️ WBS](#-WBS)  <br>
+<img src="" />
+
+### 📈 ERD <br>
+<img src="https://github.com/user-attachments/assets/a07a5d5a-6a9d-47db-a4db-0b7da8d493a9" />
+
+
+
+
+### [🪄 Figma(화면설계서)](https://www.figma.com/design/TW7n0XzdVkNInCWernHCvD/be-15-fin?node-id=413-1769&t=sBHWtZHO7Nf4EZ2s-0)  <br>
 
