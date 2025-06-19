@@ -203,6 +203,7 @@
 <img src="https://github.com/user-attachments/assets/001e9d98-2a3c-4948-a02b-9649b3b2de7b" />
 
 ### [🗃️ WBS](https://docs.google.com/spreadsheets/d/1GrDOmd987vaQiI3pSXLBK9NU2OWbMYGAb3edGdWXD0o/edit?gid=108925002#gid=108925002)  <br>
+<img src="https://github.com/user-attachments/assets/fc88d8df-ac01-49fe-91df-c80ee2662e9d" />
 
 ### 📈 ERD <br>
 <img src="https://github.com/user-attachments/assets/a07a5d5a-6a9d-47db-a4db-0b7da8d493a9" />
