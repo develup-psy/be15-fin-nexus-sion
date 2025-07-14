@@ -355,9 +355,8 @@
 <br>
 
 <details><summary><strong>스쿼드</strong></summary>
-
 <details><summary>스쿼드 등록</summary>
-    <img src="https://github.com/user-attachments/assets/c1975249-741d-4c3e-945d-93239573241a" alt="스쿼드 등록" />
+    <img src="https://github.com/user-attachments/assets/9153080b-5c0b-4992-89a9-d4dd2126500a" alt="스쿼드 등록" />
   </details>
 
   <details><summary>스쿼드 공유</summary>
