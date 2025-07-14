@@ -232,8 +232,9 @@
 
 <details><summary><strong>개발자</strong></summary>
 
-<details><summary>DP-01_가맹점 폐기 신청</summary>
-<img src="assets/07_WIREFRAME/DP-01_%EA%B0%80%EB%A7%B9%EC%A0%90%20%ED%8F%90%EA%B8%B0%20%EC%8B%A0%EC%B2%AD.png" alt="DP-01_가맹점 폐기 신청" />
+<details><summary>개발자 등록</summary>
+
+<img src="https://github.com/user-attachments/assets/d08f1955-0af5-46d6-9a13-0d4a5abb722d" alt="개발자 등록" />
 </details>
 
 <details><summary>DP-02_가맹점 폐기 목록 조회</summary>
