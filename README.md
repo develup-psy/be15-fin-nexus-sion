@@ -84,7 +84,7 @@
 <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white" />
 <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white" />
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-<img src="https://img.shields.io/badge/Mybatis-555555?style=for-the-badge" />
+<img src="https://img.shields.io/badge/JOOQ-555555?style=for-the-badge" />
 <img src="https://img.shields.io/badge/SSE-1572B6?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Rekognition-1572B6?style=for-the-badge" />
 <img src="https://img.shields.io/badge/CloudFront-7D1B7E?style=for-the-badge" />
