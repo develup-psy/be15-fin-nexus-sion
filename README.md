@@ -213,6 +213,8 @@
 ### [🪄 Figma(화면설계서)](https://www.figma.com/design/TW7n0XzdVkNInCWernHCvD/be-15-fin?node-id=413-1769&t=sBHWtZHO7Nf4EZ2s-0)  <br>
 <img src="https://github.com/user-attachments/assets/d2008c31-1d79-44e9-a011-082bbf8ef6dc" />
 
+### [🐾 단위 테스트 결과서](https://drive.google.com/file/d/1qzzKNrG6Kgk--2ErxqdVXHDwwSeOdmeH/view)  <br>
+
 ### 🪧 시연 gif
 
 
