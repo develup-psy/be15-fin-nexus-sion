@@ -1,4 +1,4 @@
-# be15-fin-nexus-sion
+![chrome_cMkY0o4zZx](https://github.com/user-attachments/assets/a6ee3b8a-244d-48d0-a4fb-be63a2abad11)# be15-fin-nexus-sion
 # 🎥 SION
 
 <div align="center">
@@ -264,23 +264,27 @@
 <details><summary><strong> 프로젝트 </strong></summary>
 
 <details><summary>프로젝트 등록(관리자)</summary>
-<img src="assets/07_WIREFRAME/FR-01_%EA%B0%80%EB%A7%B9%EC%A0%90%20%EB%93%B1%EB%A1%9D.png" alt="FR-01_가맹점 등록" />
+<img src="" alt="프로젝트 등록" />
 </details>
 
 <details><summary>프로젝트 수정/삭제(관리자)</summary>
-<img src="assets/07_WIREFRAME/FR-02_%EA%B0%80%EB%A7%B9%EC%A0%90%20%EB%AA%A9%EB%A1%9D%20%EC%A1%B0%ED%9A%8C.png" alt="FR-02_가맹점 목록 조회" />
+<img src="https://github.com/user-attachments/assets/b14fe9e7-f0b7-46a3-8f2c-c5c10d62c5da" alt="프로젝트 삭제" />
+</details>
+
+<details><summary>프로젝트 종료(관리자)</summary>
+<img src="https://github.com/user-attachments/assets/0b7dcf2c-a04d-4e99-83ae-7f4b70784b0d" alt="프로젝트 종료" />
 </details>
 
 <details><summary>프로젝트 목록 조회(필터)</summary>
-<img src="assets/07_WIREFRAME/FR-03_%EA%B0%80%EB%A7%B9%EC%A0%90%20%EC%83%81%EC%84%B8%20%EC%A1%B0%ED%9A%8C.png" alt="FR-03_가맹점 상세 조회" />
+<img src="https://github.com/user-attachments/assets/3dc99650-d3dd-4ed4-9482-62516bc2b464" alt="프로젝트 목록 조회 필터" />
 </details>
 
 <details><summary>프로젝트 목록 조회(검색어)</summary>
-<img src="assets/07_WIREFRAME/FR-04_%EB%B3%B4%EC%9C%A0%20%EC%9E%AC%EA%B3%A0%20%EB%93%B1%EB%A1%9D.png" alt="FR-04_보유 재고 등록" />
+<img src="https://github.com/user-attachments/assets/6daaa2f3-dcf4-4381-b65e-99bdea64b1c4" alt="프로젝트 목록 조회 검색어" />
 </details>
 
 <details><summary>프로젝트 상세 조회</summary>
-<img src="assets/07_WIREFRAME/FR-05_%EB%B3%B4%EC%9C%A0%20%EC%9E%AC%EA%B3%A0%20%EB%AA%A9%EB%A1%9D%20%EC%A1%B0%ED%9A%8C.png" alt="FR-05_보유 재고 목록 조회" />
+<img src="https://github.com/user-attachments/assets/f7f14f87-ec96-4954-86ff-85db48cd3144" alt="프로젝트 상세 조회" />
 </details>
 
 <details><summary>프로젝트 목록 조회(개발자 본인)</summary>
