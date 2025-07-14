@@ -254,11 +254,11 @@
 
 <details><summary><strong>회원</strong></summary>
 
-<details><summary>DL-01_로그인</summary>
+<details><summary>로그인</summary>
 <img src="assets/07_WIREFRAME/DL-01_배송%20등록.png" alt="DL-01_배송 등록" />
 </details>
 
-<details><summary>DL-02_회원가입</summary>
+<details><summary>회원가입</summary>
 <img src="assets/07_WIREFRAME/DL-02_%EB%B0%B0%EC%86%A1%20%EB%AA%A9%EB%A1%9D%20%EC%A1%B0%ED%9A%8C.png" alt="DL-02_배송 목록 조회" />
 </details>
 
