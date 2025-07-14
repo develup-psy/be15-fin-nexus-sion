@@ -305,7 +305,8 @@
 <details><summary><strong> 프로젝트 </strong></summary>
 
 <details><summary>프로젝트 등록(관리자)</summary>
-<img src="" alt="프로젝트 등록" />
+<img src="https://github.com/user-attachments/assets/1b69d1e6-7596-4e79-903e-336bc6c86773" alt="프로젝트 등록" />
+
 </details>
 
 <details><summary>프로젝트 수정/삭제(관리자)</summary>
