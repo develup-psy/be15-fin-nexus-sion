@@ -1,4 +1,4 @@
-![chrome_cMkY0o4zZx](https://github.com/user-attachments/assets/a6ee3b8a-244d-48d0-a4fb-be63a2abad11)# be15-fin-nexus-sion
+
 # 🎥 SION
 
 <div align="center">
@@ -285,14 +285,6 @@
 
 <details><summary>프로젝트 상세 조회</summary>
 <img src="https://github.com/user-attachments/assets/f7f14f87-ec96-4954-86ff-85db48cd3144" alt="프로젝트 상세 조회" />
-</details>
-
-<details><summary>프로젝트 목록 조회(개발자 본인)</summary>
-<img src="assets/07_WIREFRAME/FR-06_%EB%B3%B4%EC%9C%A0%20%EC%9E%AC%EA%B3%A0%20%EC%83%81%EC%84%B8%20%EC%A1%B0%ED%9A%8C.png" alt="FR-06_보유 재고 상세 조회" />
-</details>
-
-<details><summary>프로젝트 상세 조회(개발자 본인)</summary>
-<img src="assets/07_WIREFRAME/FR-06_%EB%B3%B4%EC%9C%A0%20%EC%9E%AC%EA%B3%A0%20%EC%83%81%EC%84%B8%20%EC%A1%B0%ED%9A%8C.png" alt="FR-06_보유 재고 상세 조회" />
 </details>
 
 </details>
