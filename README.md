@@ -65,6 +65,7 @@
 #### [🗃️ WBS]  <br>
 #### [📈 ERD]  <br>
 #### [🪄 Figma(화면설계서)] <br>
+#### [🪧 시연 gif] <br>
 
 <br>
 
@@ -72,7 +73,7 @@
 
 <div align="center">
 
-### 🌿 Backend  
+### 🌿 Backend
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
 <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
 <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white" />
@@ -90,7 +91,7 @@
 
 <div align="center">
 
-### 🌿 Frontend  
+### 🌿 Frontend
 <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" />
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -105,7 +106,7 @@
 
 <div align="center">
 
-### 🗃️ Database  
+### 🗃️ Database
 <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" />
 <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
 <img src="https://img.shields.io/badge/Amazon_S3-569A31?style=for-the-badge&logo=amazonaws&logoColor=white" />
@@ -114,7 +115,7 @@
 
 <div align="center">
 
-### ☁️ Devops  
+### ☁️ Devops
 <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
 <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
 <img src="https://img.shields.io/badge/Jenkins-DC382D?style=for-the-badge&logo=Jenkins&logoColor=white" />
@@ -123,7 +124,7 @@
 
 <div align="center">
 
-### 🛠️ Tools  
+### 🛠️ Tools
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
@@ -211,3 +212,167 @@
 ### [🪄 Figma(화면설계서)](https://www.figma.com/design/TW7n0XzdVkNInCWernHCvD/be-15-fin?node-id=413-1769&t=sBHWtZHO7Nf4EZ2s-0)  <br>
 <img src="https://github.com/user-attachments/assets/d2008c31-1d79-44e9-a011-082bbf8ef6dc" />
 
+### 🪧 시연 gif
+
+
+<details><summary><strong>회원</strong></summary>
+
+<details><summary>DL-01_로그인</summary>
+<img src="assets/07_WIREFRAME/DL-01_배송%20등록.png" alt="DL-01_배송 등록" />
+</details>
+
+<details><summary>DL-02_회원가입</summary>
+<img src="assets/07_WIREFRAME/DL-02_%EB%B0%B0%EC%86%A1%20%EB%AA%A9%EB%A1%9D%20%EC%A1%B0%ED%9A%8C.png" alt="DL-02_배송 목록 조회" />
+</details>
+
+</details>
+
+<br>
+
+<details><summary><strong>개발자</strong></summary>
+
+<details><summary>DP-01_가맹점 폐기 신청</summary>
+<img src="assets/07_WIREFRAME/DP-01_%EA%B0%80%EB%A7%B9%EC%A0%90%20%ED%8F%90%EA%B8%B0%20%EC%8B%A0%EC%B2%AD.png" alt="DP-01_가맹점 폐기 신청" />
+</details>
+
+<details><summary>DP-02_가맹점 폐기 목록 조회</summary>
+<img src="assets/07_WIREFRAME/DP-02_%EA%B0%80%EB%A7%B9%EC%A0%90%20%ED%8F%90%EA%B8%B0%20%EB%AA%A9%EB%A1%9D%20%EC%A1%B0%ED%9A%8C.png" alt="DP-02_가맹점 폐기 목록 조회" />
+</details>
+
+<details><summary>DP-03_창고 반품 폐기 신청</summary>
+<img src="assets/07_WIREFRAME/DP-03_%EC%B0%BD%EA%B3%A0%20%EB%B0%98%ED%92%88%20%ED%8F%90%EA%B8%B0%20%EC%8B%A0%EC%B2%AD.png" alt="DP-03_창고 반품 폐기 신청" />
+</details>
+
+<details><summary>DP-04_창고 일반 폐기 신청</summary>
+<img src="assets/07_WIREFRAME/DP-04_%EC%B0%BD%EA%B3%A0%20%EC%9D%BC%EB%B0%98%20%ED%8F%90%EA%B8%B0%20%EC%8B%A0%EC%B2%AD.png" alt="DP-04_창고 일반 폐기 신청" />
+</details>
+
+<details><summary>DP-05_창고 폐기 목록 조회</summary>
+<img src="assets/07_WIREFRAME/DP-05_%EC%B0%BD%EA%B3%A0%20%ED%8F%90%EA%B8%B0%20%EB%AA%A9%EB%A1%9D%20%EC%A1%B0%ED%9A%8C.png" alt="DP-05_창고 폐기 목록 조회" />
+</details>
+
+<details><summary>DP-06_전체 폐기 목록 조회</summary>
+<img src="assets/07_WIREFRAME/DP-06_%E1%84%8C%E1%85%A5%E1%86%AB%E1%84%8E%E1%85%A6%20%E1%84%91%E1%85%A8%E1%84%80%E1%85%B5%20%E1%84%86%E1%85%A9%E1%86%A8%E1%84%85%E1%85%A9%E1%86%A8%20%E1%84%8C%E1%85%A9%E1%84%92%E1%85%AC.png" alt="DP-06_전체 폐기 목록 조회" />
+</details>
+
+</details>
+
+<br>
+
+<details><summary><strong> 프로젝트 </strong></summary>
+
+<details><summary>프로젝트 등록(관리자)</summary>
+<img src="assets/07_WIREFRAME/FR-01_%EA%B0%80%EB%A7%B9%EC%A0%90%20%EB%93%B1%EB%A1%9D.png" alt="FR-01_가맹점 등록" />
+</details>
+
+<details><summary>프로젝트 수정/삭제(관리자)</summary>
+<img src="assets/07_WIREFRAME/FR-02_%EA%B0%80%EB%A7%B9%EC%A0%90%20%EB%AA%A9%EB%A1%9D%20%EC%A1%B0%ED%9A%8C.png" alt="FR-02_가맹점 목록 조회" />
+</details>
+
+<details><summary>프로젝트 목록 조회(필터)</summary>
+<img src="assets/07_WIREFRAME/FR-03_%EA%B0%80%EB%A7%B9%EC%A0%90%20%EC%83%81%EC%84%B8%20%EC%A1%B0%ED%9A%8C.png" alt="FR-03_가맹점 상세 조회" />
+</details>
+
+<details><summary>프로젝트 목록 조회(검색어)</summary>
+<img src="assets/07_WIREFRAME/FR-04_%EB%B3%B4%EC%9C%A0%20%EC%9E%AC%EA%B3%A0%20%EB%93%B1%EB%A1%9D.png" alt="FR-04_보유 재고 등록" />
+</details>
+
+<details><summary>프로젝트 상세 조회</summary>
+<img src="assets/07_WIREFRAME/FR-05_%EB%B3%B4%EC%9C%A0%20%EC%9E%AC%EA%B3%A0%20%EB%AA%A9%EB%A1%9D%20%EC%A1%B0%ED%9A%8C.png" alt="FR-05_보유 재고 목록 조회" />
+</details>
+
+<details><summary>프로젝트 목록 조회(개발자 본인)</summary>
+<img src="assets/07_WIREFRAME/FR-06_%EB%B3%B4%EC%9C%A0%20%EC%9E%AC%EA%B3%A0%20%EC%83%81%EC%84%B8%20%EC%A1%B0%ED%9A%8C.png" alt="FR-06_보유 재고 상세 조회" />
+</details>
+
+<details><summary>프로젝트 상세 조회(개발자 본인)</summary>
+<img src="assets/07_WIREFRAME/FR-06_%EB%B3%B4%EC%9C%A0%20%EC%9E%AC%EA%B3%A0%20%EC%83%81%EC%84%B8%20%EC%A1%B0%ED%9A%8C.png" alt="FR-06_보유 재고 상세 조회" />
+</details>
+
+</details>
+
+<br>
+
+<details><summary><strong>스쿼드</strong></summary>
+
+<details><summary>MB-01_로그인</summary>
+<img src="assets/07_WIREFRAME/MB-01_%E1%84%85%E1%85%A9%E1%84%80%E1%85%B3%E1%84%8B%E1%85%B5%E1%86%AB.png" alt="MB-01_로그인" />
+</details>
+
+<details><summary>MB-02_마스터 - 계정 생성</summary>
+<img src="assets/07_WIREFRAME/MB-02_%E1%84%86%E1%85%A1%E1%84%89%E1%85%B3%E1%84%90%E1%85%A5%20-%20%E1%84%80%E1%85%A8%E1%84%8C%E1%85%A5%E1%86%BC%20%E1%84%89%E1%85%A2%E1%86%BC%E1%84%89%E1%85%A5%E1%86%BC.png" alt="MB-02_마스터 - 계정 생성" />
+</details>
+
+<details><summary>MB-03_로그인이력</summary>
+<img src="assets/07_WIREFRAME/MB-03_%E1%84%85%E1%85%A9%E1%84%80%E1%85%B3%E1%84%8B%E1%85%B5%E1%86%AB%E1%84%8B%E1%85%B5%E1%84%85%E1%85%A7%E1%86%A8.png" alt="MB-03_로그인이력" />
+</details>
+
+<br>
+
+<details><summary>MB-04_프로필 - 로그인 내역</summary>
+<img src="assets/07_WIREFRAME/MB-04_%E1%84%91%E1%85%B3%E1%84%85%E1%85%A9%E1%84%91%E1%85%B5%E1%86%AF%20-%20%E1%84%85%E1%85%A9%E1%84%80%E1%85%B3%E1%84%8B%E1%85%B5%E1%86%AB%20%E1%84%82%E1%85%A2%E1%84%8B%E1%85%A7%E1%86%A8.png" alt="MB-04_프로필 - 로그인 내역" />
+</details>
+
+<details><summary>MB-05_프로필 - 로그인 내역 더보기</summary>
+<img src="assets/07_WIREFRAME/MB-05_%E1%84%91%E1%85%B3%E1%84%85%E1%85%A9%E1%84%91%E1%85%B5%E1%86%AF%20-%20%E1%84%85%E1%85%A9%E1%84%80%E1%85%B3%E1%84%8B%E1%85%B5%E1%86%AB%20%E1%84%82%E1%85%A2%E1%84%8B%E1%85%A7%E1%86%A8%20%E1%84%83%E1%85%A5%E1%84%87%E1%85%A9%E1%84%80%E1%85%B5.png" alt="MB-05_프로필 - 로그인 내역 더보기" />
+</details>
+
+</details>
+
+<br>
+
+<details><summary><strong>프리랜서</strong></summary>
+
+<details><summary>PD-01_카테고리 목록 조회</summary>
+<img src="assets/07_WIREFRAME/PD-01_%EC%B9%B4%ED%85%8C%EA%B3%A0%EB%A6%AC%20%EB%AA%A9%EB%A1%9D%20%EC%A1%B0%ED%9A%8C.png" alt="PD-01_카테고리 목록 조회" />
+</details>
+
+<details><summary>PD-02_부모 카테고리 상세 조회</summary>
+<img src="assets/07_WIREFRAME/PD-02_%EB%B6%80%EB%AA%A8%20%EC%B9%B4%ED%85%8C%EA%B3%A0%EB%A6%AC%20%EC%83%81%EC%84%B8%20%EC%A1%B0%ED%9A%8C.png" alt="PD-02_부모 카테고리 상세 조회" />
+</details>
+
+<details><summary>PD-03_자식 카테고리 상세 조회</summary>
+<img src="assets/07_WIREFRAME/PD-03_%EC%9E%90%EC%8B%9D%20%EC%B9%B4%ED%85%8C%EA%B3%A0%EB%A6%AC%20%EC%83%81%EC%84%B8%20%EC%A1%B0%ED%9A%8C.png" alt="PD-03_자식 카테고리 상세 조회" />
+</details>
+
+<details><summary>PD-04_제품 등록</summary>
+<img src="assets/07_WIREFRAME/PD-04_%EC%A0%9C%ED%92%88%20%EB%93%B1%EB%A1%9D.png" alt="PD-04_제품 등록" />
+</details>
+
+<details><summary>PD-05_제품 목록 조회</summary>
+<img src="assets/07_WIREFRAME/PD-05_%EC%A0%9C%ED%92%88%20%EB%AA%A9%EB%A1%9D%20%EC%A1%B0%ED%9A%8C.png" alt="PD-05_제품 목록 조회" />
+</details>
+
+<details><summary>PD-06_제품 상세 조회</summary>
+<img src="assets/07_WIREFRAME/PD-06_%EC%A0%9C%ED%92%88%20%EC%83%81%EC%84%B8%20%EC%A1%B0%ED%9A%8C.png" alt="PD-06_제품 상세 조회" />
+</details>
+
+<details><summary>PD-07_거래처 별 제품 계약 등록</summary>
+<img src="assets/07_WIREFRAME/PD-07_%EA%B1%B0%EB%9E%98%EC%B2%98%20%EB%B3%84%20%EC%A0%9C%ED%92%88%20%EA%B3%84%EC%95%BD%20%EB%93%B1%EB%A1%9D.png" alt="PD-07_거래처 별 제품 계약 등록" />
+</details>
+
+<details><summary>PD-08_거래처 별 제품 계약 목록 조회</summary>
+<img src="assets/07_WIREFRAME/PD-08_%EA%B1%B0%EB%9E%98%EC%B2%98%20%EB%B3%84%20%EC%A0%9C%ED%92%88%20%EA%B3%84%EC%95%BD%20%EB%AA%A9%EB%A1%9D%20%EC%A1%B0%ED%9A%8C.png" alt="PD-08_거래처 별 제품 계약 목록 조회" />
+</details>
+
+<details><summary>PD-09_거래처 별 제품 계약 상세 조회</summary>
+<img src="assets/07_WIREFRAME/PD-09_%EA%B1%B0%EB%9E%98%EC%B2%98%20%EB%B3%84%20%EC%A0%9C%ED%92%88%20%EA%B3%84%EC%95%BD%20%EC%83%81%EC%84%B8%20%EC%A1%B0%ED%9A%8C.png" alt="PD-09_거래처 별 제품 계약 상세 조회" />
+</details>
+
+</details>
+
+<br>
+
+<details><summary><strong>통계</strong></summary>
+
+<details><summary>PO-01_발주 목록 조회</summary>
+<img src="assets/07_WIREFRAME/PO-01_%EB%B0%9C%EC%A3%BC%20%EB%AA%A9%EB%A1%9D%20%EC%A1%B0%ED%9A%8C.png" alt="PO-01_발주 목록 조회" />
+</details>
+
+<details><summary>PO-02_발주 상세 조회</summary>
+<img src="assets/07_WIREFRAME/PO-02_%EB%B0%9C%EC%A3%BC%20%EC%83%81%EC%84%B8%20%EC%A1%B0%ED%9A%8C.png" alt="PO-02_발주 상세 조회" />
+</details>
+
+</details>
+
+<br>
