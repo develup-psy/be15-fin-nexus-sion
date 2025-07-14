@@ -374,18 +374,6 @@
     <img src="https://github.com/user-attachments/assets/079190c3-6bb1-4e3b-9740-51f38b8d5b6d" alt="스쿼드 공유" />
   </details>
 
-<details><summary>MB-01_로그인</summary>
-<img src="assets/07_WIREFRAME/MB-01_%E1%84%85%E1%85%A9%E1%84%80%E1%85%B3%E1%84%8B%E1%85%B5%E1%86%AB.png" alt="MB-01_로그인" />
-</details>
-
-<details><summary>MB-02_마스터 - 계정 생성</summary>
-<img src="assets/07_WIREFRAME/MB-02_%E1%84%86%E1%85%A1%E1%84%89%E1%85%B3%E1%84%90%E1%85%A5%20-%20%E1%84%80%E1%85%A8%E1%84%8C%E1%85%A5%E1%86%BC%20%E1%84%89%E1%85%A2%E1%86%BC%E1%84%89%E1%85%A5%E1%86%BC.png" alt="MB-02_마스터 - 계정 생성" />
-</details>
-
-<details><summary>MB-03_로그인이력</summary>
-<img src="assets/07_WIREFRAME/MB-03_%E1%84%85%E1%85%A9%E1%84%80%E1%85%B3%E1%84%8B%E1%85%B5%E1%86%AB%E1%84%8B%E1%85%B5%E1%84%85%E1%85%A7%E1%86%A8.png" alt="MB-03_로그인이력" />
-</details>
-
 <br>
 
 <details><summary>MB-04_프로필 - 로그인 내역</summary>
