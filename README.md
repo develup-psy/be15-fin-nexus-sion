@@ -255,7 +255,8 @@
 <details><summary><strong>회원</strong></summary>
 
 <details><summary>로그인</summary>
-<img src="assets/07_WIREFRAME/DL-01_배송%20등록.png" alt="DL-01_배송 등록" />
+<img src="https://github.com/user-attachments/assets/a84ce5d6-7917-4103-9a53-302d42ab0f6d" alt="로그인" />
+
 </details>
 
 <details><summary>회원가입</summary>
