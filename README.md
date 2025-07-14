@@ -254,14 +254,17 @@
 
 <details><summary><strong>회원</strong></summary>
 
-<details><summary>로그인</summary>
-<img src="https://github.com/user-attachments/assets/a84ce5d6-7917-4103-9a53-302d42ab0f6d" alt="로그인" />
+  <details><summary>로그인</summary>
+    <img src="https://github.com/user-attachments/assets/a84ce5d6-7917-4103-9a53-302d42ab0f6d" alt="로그인" />
+  </details>
+  
+  <details><summary>로그아웃</summary>
+    <img src="https://github.com/user-attachments/assets/edb743c8-df3b-40eb-b4b4-a246db1e8144" alt="로그아웃" />
+  </details>
 
-</details>
-
-<details><summary>회원가입</summary>
-<img src="assets/07_WIREFRAME/DL-02_%EB%B0%B0%EC%86%A1%20%EB%AA%A9%EB%A1%9D%20%EC%A1%B0%ED%9A%8C.png" alt="DL-02_배송 목록 조회" />
-</details>
+  <details><summary>회원가입</summary>
+    <img src="https://github.com/user-attachments/assets/4a484924-3ab2-4181-b5e1-043832400ceb" alt="회원가입" />
+  </details>
 
 </details>
 
@@ -350,6 +353,10 @@
 <br>
 
 <details><summary><strong>스쿼드</strong></summary>
+
+  <details><summary>스쿼드 공유</summary>
+    <img src="https://github.com/user-attachments/assets/079190c3-6bb1-4e3b-9740-51f38b8d5b6d" alt="스쿼드 공유" />
+  </details>
 
 <details><summary>MB-01_로그인</summary>
 <img src="assets/07_WIREFRAME/MB-01_%E1%84%85%E1%85%A9%E1%84%80%E1%85%B3%E1%84%8B%E1%85%B5%E1%86%AB.png" alt="MB-01_로그인" />
@@ -471,37 +478,24 @@
 
 <br>
 
-<details><summary><strong>관리자 설정</strong></summary>
+<details><summary><strong>알림</strong></summary>
+    
+  <details><summary>알림 조회</summary>
+  <img src="https://github.com/user-attachments/assets/b53df560-97aa-4997-aaf0-b0f45a028034" alt="알림 조회" />
+  </details>
   
-<details><summary>기술 스택 관리</summary>
-<img src="https://github.com/user-attachments/assets/5e6bc4ce-9910-4843-a858-92c4d1fbd6f0" alt="기술 스택 관리" />
-</details>
+  <details><summary>알림 발송 시 실시간 알림</summary>
+  <img src="https://github.com/user-attachments/assets/8fd5f0b1-ca6a-4d17-b2f5-a0ffce32840b" alt="알림 발송 시 실시간 알림" />
+  </details>
+  
+  <details><summary>알림 하나 읽음</summary>
+  <img src="https://github.com/user-attachments/assets/abc9bb17-57c2-46e1-95cd-f41d70f07021" alt="알림 하나 읽음" />
+  </details>
+  
+  <details><summary>알림 전부 읽음</summary>
+  <img src="https://github.com/user-attachments/assets/f001ec1e-1ae5-4ffc-9683-9924ace7f2fb" alt="알림 전부 읽음" />
+  </details>
 
-<details><summary>직무 관리</summary>
-<img src="https://github.com/user-attachments/assets/a832dd5d-ef01-4005-bad8-3a9b576faedc" alt="직무 관리" />
-</details>
 
-<details><summary>도메인 관리</summary>
-<img src="https://github.com/user-attachments/assets/1b6430af-2706-4276-967c-b02008fc621f" alt="도메인 관리" />
-</details>
-
-<details><summary>고객사 관리</summary>
-<img src="https://github.com/user-attachments/assets/df636124-8f3c-4115-88e6-a8fb32a89ee0" alt="고객사 관리" />
-</details>
-
-<details><summary>구간별 단가 관리</summary>
-<img src="https://github.com/user-attachments/assets/2e4ed6f1-7334-4d18-81e9-184d1b1cd1c1" alt="구간별 단가 관리" />
-</details>
-
-<details><summary>초기 스택 점수 관리</summary>
-<img src="https://github.com/user-attachments/assets/ee8bbf86-f514-4dfe-8040-5aef35350b7a" alt="초기 스택 점수 관리" />
-</details>
-
-<details><summary>자격증 종류 관리</summary>
-<img src="https://github.com/user-attachments/assets/3c8d69fd-b8cf-47ff-a017-519682dfbf6e" alt="자격증 종류 관리" />
-</details>
-
-<details><summary>자격증 승인 관리</summary>
-<img src="https://github.com/user-attachments/assets/50aea1fd-d11f-453b-9035-db2a1651b5e7" alt="자격증 승인 관리" />
 </details>
 
