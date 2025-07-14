@@ -302,7 +302,7 @@
 
 <br>
 
-<details><summary><strong> 프로젝트 </strong></summary>
+<details><summary><strong> 프로젝트 </strong></summary></details>
 
 <details><summary>프로젝트 등록(관리자)</summary>
 <img src="https://github.com/user-attachments/assets/618a854c-3a01-40e1-95f1-54471a9dfe39" alt="프로젝트 등록" />
