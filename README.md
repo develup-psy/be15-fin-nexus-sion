@@ -66,6 +66,7 @@
 <a href="#erd">📈 ERD</a><br>
 <a href="#figma">🪄 Figma(화면설계서)</a><br>
 <a href="#api">👾 API 명세서</a><br>
+<a href="#test">📄 단위 테스트</a><br>
 <a href="#demo">🪧 시연 gif</a>
 
 
@@ -241,9 +242,9 @@
 </h3> 
 <br>
 
-<h3 id="api">
+<h3 id="test">
   <a href="https://drive.google.com/file/d/17vMFeUcY3hxOw3yBqv8Zc5Tg1UwTVfYy/view" target="_blank">
-    🐾 단위 테스트 결과서
+    📄 단위 테스트 결과서
   </a>
 </h3> 
 <br>
@@ -496,6 +497,41 @@
   <img src="https://github.com/user-attachments/assets/f001ec1e-1ae5-4ffc-9683-9924ace7f2fb" alt="알림 전부 읽음" />
   </details>
 
+</details>
 
+<br>
+
+<details><summary><strong>관리자 설정</strong></summary>
+
+<details><summary>기술 스택 관리</summary>
+<img src="https://github.com/user-attachments/assets/5e6bc4ce-9910-4843-a858-92c4d1fbd6f0" alt="기술 스택 관리" />
+</details>
+
+<details><summary>직무 관리</summary>
+<img src="https://github.com/user-attachments/assets/a832dd5d-ef01-4005-bad8-3a9b576faedc" alt="직무 관리" />
+</details>
+
+<details><summary>도메인 관리</summary>
+<img src="https://github.com/user-attachments/assets/1b6430af-2706-4276-967c-b02008fc621f" alt="도메인 관리" />
+</details>
+
+<details><summary>고객사 관리</summary>
+<img src="https://github.com/user-attachments/assets/df636124-8f3c-4115-88e6-a8fb32a89ee0" alt="고객사 관리" />
+</details>
+
+<details><summary>구간별 단가 관리</summary>
+<img src="https://github.com/user-attachments/assets/2e4ed6f1-7334-4d18-81e9-184d1b1cd1c1" alt="구간별 단가 관리" />
+</details>
+
+<details><summary>초기 스택 점수 관리</summary>
+<img src="https://github.com/user-attachments/assets/ee8bbf86-f514-4dfe-8040-5aef35350b7a" alt="초기 스택 점수 관리" />
+</details>
+
+<details><summary>자격증 종류 관리</summary>
+<img src="https://github.com/user-attachments/assets/3c8d69fd-b8cf-47ff-a017-519682dfbf6e" alt="자격증 종류 관리" />
+</details>
+
+<details><summary>자격증 승인 관리</summary>
+<img src="https://github.com/user-attachments/assets/50aea1fd-d11f-453b-9035-db2a1651b5e7" alt="자격증 승인 관리" />
 </details>
 
