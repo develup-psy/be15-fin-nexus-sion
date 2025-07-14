@@ -57,20 +57,21 @@
 
 ## 📜 목차
 
-- [💡 기술 스택](#-기술-스택)
-- [📢 프로젝트 소개](#-프로젝트-소개)
-- [🐾 프로젝트 기획서](#-프로젝트-기획서)
-- [🔡 요구사항 명세서](#-요구사항-명세서)
-- [📟 시스템 아키텍쳐](#-시스템-아키텍쳐)
-- [🗃️ WBS](#-wbs)
-- [📈 ERD](#-erd)
-- [🪄 Figma(화면설계서)](#-figma화면설계서)
-- [🪧 시연 gif](#-시연-gif)
+<a href="#tech-stack">💡 기술 스택</a><br>
+<a href="#project-intro">📢 프로젝트 소개</a><br>
+<a href="#planning">🐾 프로젝트 기획서</a><br>
+<a href="#requirements">🔡 요구사항 명세서</a><br>
+<a href="#architecture">📟 시스템 아키텍쳐</a><br>
+<a href="#wbs">🗃️ WBS</a><br>
+<a href="#erd">📈 ERD</a><br>
+<a href="#figma">🪄 Figma(화면설계서)</a><br>
+<a href="#api">👾 API 명세서</a><br>
+<a href="#demo">🪧 시연 gif</a>
 
 
 <br>
 
-## 💡 기술 스택
+<h2 id="tech-stack">💡 기술 스택</h2>
 
 <div align="center">
 
@@ -137,7 +138,7 @@
 
 <br>
 
-## 📢 프로젝트 소개
+<h2 id="project-intro">📢 프로젝트 소개</h2>
 
 ### 🎥 **SION: AI 기반으로 기술 중심 인재를 추천하고 관리하는 통합 인사 운영 시스템**
 
@@ -197,25 +198,58 @@
 - 각 회사는 별도의 DB에서 인재·프로젝트 정보 관리
 - 접근 권한과 관리자 권한 분리로 보안성 강화
 
-### [🐾 프로젝트 기획서](https://docs.google.com/document/d/1sGixpxJ4l9nXPV3sTUZbL084y2LVurlD_iGcDL25UAs/edit?tab=t.0)  <br>
+<h3 id="planning">
+  <a href="https://docs.google.com/document/d/1sGixpxJ4l9nXPV3sTUZbL084y2LVurlD_iGcDL25UAs/edit?tab=t.0" target="_blank">
+    🐾 프로젝트 기획서
+  </a>
+</h3> <br>
 
-### [🔡 요구사항 명세서](https://docs.google.com/spreadsheets/d/1GrDOmd987vaQiI3pSXLBK9NU2OWbMYGAb3edGdWXD0o/edit?gid=230510313#gid=230510313)  <br>
+<h3 id="requirements">
+  <a href="https://docs.google.com/spreadsheets/d/1GrDOmd987vaQiI3pSXLBK9NU2OWbMYGAb3edGdWXD0o/edit?gid=230510313#gid=230510313" target="_blank">
+    🔡 요구사항 명세서
+  </a>
+</h3> <br>
 
-### 📟 시스템 아키텍쳐  <br>
+<h3 id="architecture">📟 시스템 아키텍쳐</h3>
 <img src="https://github.com/user-attachments/assets/001e9d98-2a3c-4948-a02b-9649b3b2de7b" />
+<br>
 
-### [🗃️ WBS](https://docs.google.com/spreadsheets/d/1GrDOmd987vaQiI3pSXLBK9NU2OWbMYGAb3edGdWXD0o/edit?gid=108925002#gid=108925002)  <br>
+<h3 id="requirements">
+  <a href="https://docs.google.com/spreadsheets/d/1GrDOmd987vaQiI3pSXLBK9NU2OWbMYGAb3edGdWXD0o/edit?gid=108925002#gid=108925002" target="_blank">
+    🗃️ WBS
+  </a>
+</h3> 
 <img src="https://github.com/user-attachments/assets/fc88d8df-ac01-49fe-91df-c80ee2662e9d" />
+<br>
 
-### 📈 ERD <br>
+<h3 id="erd">📈 ERD</h3>
 <img src="https://github.com/user-attachments/assets/a07a5d5a-6a9d-47db-a4db-0b7da8d493a9" />
+<br>
 
-### [🪄 Figma(화면설계서)](https://www.figma.com/design/TW7n0XzdVkNInCWernHCvD/be-15-fin?node-id=413-1769&t=sBHWtZHO7Nf4EZ2s-0)  <br>
+<h3 id="figma">
+  <a href="https://www.figma.com/design/TW7n0XzdVkNInCWernHCvD/be-15-fin?node-id=413-1769&t=sBHWtZHO7Nf4EZ2s-0" target="_blank">
+    🪄 Figma(화면설계서)
+  </a>
+</h3> 
 <img src="https://github.com/user-attachments/assets/d2008c31-1d79-44e9-a011-082bbf8ef6dc" />
+<br>
 
-### [🐾 단위 테스트 결과서](https://drive.google.com/file/d/1qzzKNrG6Kgk--2ErxqdVXHDwwSeOdmeH/view)  <br>
+<h3 id="api">
+  <a href="https://docs.google.com/spreadsheets/d/1GrDOmd987vaQiI3pSXLBK9NU2OWbMYGAb3edGdWXD0o/edit?gid=1268650155#gid=1268650155" target="_blank">
+    👾 API 명세서
+  </a>
+</h3> 
+<br>
 
-### 🪧 시연 gif
+<h3 id="api">
+  <a href="https://drive.google.com/file/d/1qzzKNrG6Kgk--2ErxqdVXHDwwSeOdmeH/view" target="_blank">
+    🐾 단위 테스트 결과서
+  </a>
+</h3> 
+<br>
+
+
+<h3 id="demo">🪧 시연 gif</h3>
 
 
 <details><summary><strong>회원</strong></summary>
@@ -289,7 +323,28 @@
 <img src="https://github.com/user-attachments/assets/f7f14f87-ec96-4954-86ff-85db48cd3144" alt="프로젝트 상세 조회" />
 </details>
 
+<details><summary>개발자의 프로젝트 이력 등록 요청</summary>
+<img src="https://github.com/user-attachments/assets/7d60ca91-a5bc-405a-a092-f346ddcf4e8b" alt="프로젝트 이력 등록 요청" />
 </details>
+
+<details><summary>관리자의 프로젝트 이력 등록 요청 거부</summary>
+<img src="https://github.com/user-attachments/assets/cdc3e27d-85dd-4bec-8108-e25d650a0379" alt="프로젝트 이력 등록 요청 거부" />
+</details>
+
+<details><summary>개발자의 프로젝트 이력 등록 재요청</summary>
+<img src="https://github.com/user-attachments/assets/a926df2e-c48f-4d2c-ac01-47a25fb8876b" alt="프로젝트 이력 등록 재요청" />
+</details>
+
+<details><summary>관리자의 프로젝트 이력 등록 승인</summary>
+<img src="https://github.com/user-attachments/assets/fa2fa2c0-8b24-4b9c-90cc-28b792fda9cb" alt="프로젝트 이력 등록 승인" />
+</details>
+
+<details><summary>개발자의 프로젝트 이력 등록 승인 확인</summary>
+<img src="https://github.com/user-attachments/assets/041c3548-2884-4965-a0e9-3b834ac95329" alt="프로젝트 이력 등록 승인 확인" />
+</details>
+
+</details>
+
 
 <br>
 
@@ -365,12 +420,32 @@
 
 <details><summary><strong>통계</strong></summary>
 
-<details><summary>PO-01_발주 목록 조회</summary>
-<img src="assets/07_WIREFRAME/PO-01_%EB%B0%9C%EC%A3%BC%20%EB%AA%A9%EB%A1%9D%20%EC%A1%B0%ED%9A%8C.png" alt="PO-01_발주 목록 조회" />
+<details><summary>기간별 인기 기술 스택 조회</summary>
+<img src="https://github.com/user-attachments/assets/43f142eb-eca0-474d-a14b-3cf9fbefffa4" alt="기간별 인기 기술 스택 조회" />
 </details>
 
-<details><summary>PO-02_발주 상세 조회</summary>
-<img src="assets/07_WIREFRAME/PO-02_%EB%B0%9C%EC%A3%BC%20%EC%83%81%EC%84%B8%20%EC%A1%B0%ED%9A%8C.png" alt="PO-02_발주 상세 조회" />
+<details><summary>기술 스택별 구성원 조회</summary>
+<img src="https://github.com/user-attachments/assets/188e1e57-3fab-4968-9426-ba5814ee0383" alt="기술 스택별 구성원 조회" />
+</details>
+
+<details><summary>기술 스택 도입률 변화 추이 조회</summary>
+<img src="https://github.com/user-attachments/assets/ac1c5aec-239e-46fc-8f5a-0844c28f0d2a" alt="기술 스택 도입률 변화 추이 조회" />
+</details>
+
+<details><summary>기술 스택별 평균 경력 조회</summary>
+<img src="https://github.com/user-attachments/assets/05800413-7c2f-4838-8e8d-73b565b44661" alt="기술 스택별 평균 경력 조회" />
+</details>
+
+<details><summary>등급별 대기 상태 인원수 조회</summary>
+<img src="https://github.com/user-attachments/assets/7fd6e750-5e6c-41cb-a8ba-2e2efb2efd92" alt="등급별 대기 상태 인원수 조회" />
+</details>
+
+<details><summary>등급별 연봉 분포 조회</summary>
+<img src="https://github.com/user-attachments/assets/9b7a91bf-e0e5-4c79-b2a8-b9b71b33733f" alt="등급별 연봉 분포 조회" />
+</details>
+
+<details><summary>직무별 등록된 인원수 조회</summary>
+<img src="https://github.com/user-attachments/assets/dc7ca0aa-c94e-4d25-b297-edf653cc3c6d" alt="직무별 등록된 인원수 조회" />
 </details>
 
 </details>
