@@ -383,7 +383,7 @@
 
 <details><summary>자격증 종류 조회</summary>
 <img src="https://github.com/user-attachments/assets/d8db0292-f239-4874-aa14-adb5a8269acd" alt="자격증 종류 조회" />
-
+</details>
 
 <details><summary>보유 자격증 조회</summary>
 <img src="https://github.com/user-attachments/assets/760c90cf-82a9-4320-b408-6f3c4b37251d" alt="보유 자격증 조회" />
