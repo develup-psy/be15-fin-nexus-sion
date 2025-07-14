@@ -278,24 +278,24 @@
 <img src="https://github.com/user-attachments/assets/d08f1955-0af5-46d6-9a13-0d4a5abb722d" alt="개발자 등록" />
 </details>
 
-<details><summary>DP-02_가맹점 폐기 목록 조회</summary>
-<img src="assets/07_WIREFRAME/DP-02_%EA%B0%80%EB%A7%B9%EC%A0%90%20%ED%8F%90%EA%B8%B0%20%EB%AA%A9%EB%A1%9D%20%EC%A1%B0%ED%9A%8C.png" alt="DP-02_가맹점 폐기 목록 조회" />
+<details><summary>개발자 목록 조회</summary>
+<img src="https://github.com/user-attachments/assets/beb450e6-c32c-4ce7-9d79-4d154ea71aa8" alt="개발자 목록 조회" />
 </details>
 
-<details><summary>DP-03_창고 반품 폐기 신청</summary>
-<img src="assets/07_WIREFRAME/DP-03_%EC%B0%BD%EA%B3%A0%20%EB%B0%98%ED%92%88%20%ED%8F%90%EA%B8%B0%20%EC%8B%A0%EC%B2%AD.png" alt="DP-03_창고 반품 폐기 신청" />
+<details><summary>개발자 상세 조회</summary>
+<img src="https://github.com/user-attachments/assets/26913065-d88f-4e7d-864a-9c9a75aa0c89" alt="개발자 상세 조회" />
 </details>
 
-<details><summary>DP-04_창고 일반 폐기 신청</summary>
-<img src="assets/07_WIREFRAME/DP-04_%EC%B0%BD%EA%B3%A0%20%EC%9D%BC%EB%B0%98%20%ED%8F%90%EA%B8%B0%20%EC%8B%A0%EC%B2%AD.png" alt="DP-04_창고 일반 폐기 신청" />
+<details><summary>개발자 상태 변경</summary>
+<img src="https://github.com/user-attachments/assets/175e3b29-b394-4196-a6cf-2333325fbaf2" alt="개발자 상태 변경" />
 </details>
 
-<details><summary>DP-05_창고 폐기 목록 조회</summary>
-<img src="assets/07_WIREFRAME/DP-05_%EC%B0%BD%EA%B3%A0%20%ED%8F%90%EA%B8%B0%20%EB%AA%A9%EB%A1%9D%20%EC%A1%B0%ED%9A%8C.png" alt="DP-05_창고 폐기 목록 조회" />
+<details><summary>개발자 수정</summary>
+<img src="https://github.com/user-attachments/assets/12f67485-8ec9-4269-bcc6-dcdc40d7c16f" alt="개발자 수정" />
 </details>
 
-<details><summary>DP-06_전체 폐기 목록 조회</summary>
-<img src="assets/07_WIREFRAME/DP-06_%E1%84%8C%E1%85%A5%E1%86%AB%E1%84%8E%E1%85%A6%20%E1%84%91%E1%85%A8%E1%84%80%E1%85%B5%20%E1%84%86%E1%85%A9%E1%86%A8%E1%84%85%E1%85%A9%E1%86%A8%20%E1%84%8C%E1%85%A9%E1%84%92%E1%85%AC.png" alt="DP-06_전체 폐기 목록 조회" />
+<details><summary>개발자 삭제</summary>
+<img src="https://github.com/user-attachments/assets/b514293a-8e75-4bea-9c70-1ea1cb633860" alt="개발자 삭제" />
 </details>
 
 </details>
