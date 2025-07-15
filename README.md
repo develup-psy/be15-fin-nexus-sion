@@ -394,6 +394,8 @@
 </details>
 </details>
 
+<br>
+
 <details><summary><strong>통계</strong></summary>
 
 <details><summary>기간별 인기 기술 스택 조회</summary>
