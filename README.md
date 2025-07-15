@@ -58,6 +58,7 @@
 ## 📜 목차
 
 <a href="#tech-stack">💡 기술 스택</a><br>
+<a href="git">:octocat: Git 협업 약속</a><br>
 <a href="#project-intro">📢 프로젝트 소개</a><br>
 <a href="#planning">🐾 프로젝트 기획서</a><br>
 <a href="#requirements">🔡 요구사항 명세서</a><br>
@@ -138,6 +139,14 @@
 </div>
 
 <br>
+
+<h2 id="git">:octocat: Git 협업 약속</h2>
+1️⃣ 하나의 기능당 하나의 이슈 <br>
+2️⃣ 브랜치명에는 기능 타입(feat, fix 등)과 이슈 넘버를 넣어서 작성 (예: fix/300-fix-developer-search)<br>
+3️⃣ 백엔드 자동 포맷 실행 후(./gradlew spotlessAppl) pr 올리기<br>
+4️⃣ 리뷰어로 지정하면 디스코드 메시지가 오도록 연동<br>
+5️⃣ pr에는 승인이 1명 이상이어야 main에 머지가 가능<br>
+6️⃣ gemini-code-assist[bot] 가 달아준 코드 리뷰를 반영해서 수정하기<br>
 
 <h2 id="project-intro">📢 프로젝트 소개</h2>
 
