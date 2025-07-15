@@ -380,47 +380,16 @@
 
 <br>
 
+<!--
 <details><summary><strong>프리랜서</strong></summary>
-
-<details><summary>PD-01_카테고리 목록 조회</summary>
-<img src="assets/07_WIREFRAME/PD-01_%EC%B9%B4%ED%85%8C%EA%B3%A0%EB%A6%AC%20%EB%AA%A9%EB%A1%9D%20%EC%A1%B0%ED%9A%8C.png" alt="PD-01_카테고리 목록 조회" />
+<details><summary>프리랜서 목록 조회</summary>
+<img src="" alt="프리랜서 목록 조회" />
 </details>
-
-<details><summary>PD-02_부모 카테고리 상세 조회</summary>
-<img src="assets/07_WIREFRAME/PD-02_%EB%B6%80%EB%AA%A8%20%EC%B9%B4%ED%85%8C%EA%B3%A0%EB%A6%AC%20%EC%83%81%EC%84%B8%20%EC%A1%B0%ED%9A%8C.png" alt="PD-02_부모 카테고리 상세 조회" />
+<details><summary>외부 개발자 등록</summary>
+<img src="" alt="외부 개발자 등록" />
 </details>
-
-<details><summary>PD-03_자식 카테고리 상세 조회</summary>
-<img src="assets/07_WIREFRAME/PD-03_%EC%9E%90%EC%8B%9D%20%EC%B9%B4%ED%85%8C%EA%B3%A0%EB%A6%AC%20%EC%83%81%EC%84%B8%20%EC%A1%B0%ED%9A%8C.png" alt="PD-03_자식 카테고리 상세 조회" />
 </details>
-
-<details><summary>PD-04_제품 등록</summary>
-<img src="assets/07_WIREFRAME/PD-04_%EC%A0%9C%ED%92%88%20%EB%93%B1%EB%A1%9D.png" alt="PD-04_제품 등록" />
-</details>
-
-<details><summary>PD-05_제품 목록 조회</summary>
-<img src="assets/07_WIREFRAME/PD-05_%EC%A0%9C%ED%92%88%20%EB%AA%A9%EB%A1%9D%20%EC%A1%B0%ED%9A%8C.png" alt="PD-05_제품 목록 조회" />
-</details>
-
-<details><summary>PD-06_제품 상세 조회</summary>
-<img src="assets/07_WIREFRAME/PD-06_%EC%A0%9C%ED%92%88%20%EC%83%81%EC%84%B8%20%EC%A1%B0%ED%9A%8C.png" alt="PD-06_제품 상세 조회" />
-</details>
-
-<details><summary>PD-07_거래처 별 제품 계약 등록</summary>
-<img src="assets/07_WIREFRAME/PD-07_%EA%B1%B0%EB%9E%98%EC%B2%98%20%EB%B3%84%20%EC%A0%9C%ED%92%88%20%EA%B3%84%EC%95%BD%20%EB%93%B1%EB%A1%9D.png" alt="PD-07_거래처 별 제품 계약 등록" />
-</details>
-
-<details><summary>PD-08_거래처 별 제품 계약 목록 조회</summary>
-<img src="assets/07_WIREFRAME/PD-08_%EA%B1%B0%EB%9E%98%EC%B2%98%20%EB%B3%84%20%EC%A0%9C%ED%92%88%20%EA%B3%84%EC%95%BD%20%EB%AA%A9%EB%A1%9D%20%EC%A1%B0%ED%9A%8C.png" alt="PD-08_거래처 별 제품 계약 목록 조회" />
-</details>
-
-<details><summary>PD-09_거래처 별 제품 계약 상세 조회</summary>
-<img src="assets/07_WIREFRAME/PD-09_%EA%B1%B0%EB%9E%98%EC%B2%98%20%EB%B3%84%20%EC%A0%9C%ED%92%88%20%EA%B3%84%EC%95%BD%20%EC%83%81%EC%84%B8%20%EC%A1%B0%ED%9A%8C.png" alt="PD-09_거래처 별 제품 계약 상세 조회" />
-</details>
-
-</details>
-
-<br>
+<br> -->
 
 <details><summary><strong>통계</strong></summary>
 
