@@ -58,7 +58,7 @@
 ## 📜 목차
 
 <a href="#tech-stack">💡 기술 스택</a><br>
-<a href="git">:octocat: Git 협업 약속</a><br>
+<a href="#git">:octocat: Git 협업 약속</a><br>
 <a href="#project-intro">📢 프로젝트 소개</a><br>
 <a href="#planning">🐾 프로젝트 기획서</a><br>
 <a href="#requirements">🔡 요구사항 명세서</a><br>
