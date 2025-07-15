@@ -352,10 +352,10 @@
 <details><summary>프로젝트 인원 대체 및 추천</summary>
 <img src="https://github.com/user-attachments/assets/cce57e1f-a699-441b-82f8-d516694e840e" alt="프로젝트 인원 대체 및 추천" />
 
-</details>
-
 
 <br>
+</details>
+</details>
 
 <details><summary><strong>스쿼드</strong></summary>
 <details><summary>스쿼드 등록</summary>
