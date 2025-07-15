@@ -229,7 +229,6 @@
     🗃️ WBS
   </a>
 </h3> 
-<img src="https://github.com/user-attachments/assets/fc88d8df-ac01-49fe-91df-c80ee2662e9d" />
 <br>
 
 <h3 id="erd">📈 ERD</h3>
