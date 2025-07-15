@@ -365,12 +365,13 @@
 <br>
 
 <details><summary><strong>스쿼드</strong></summary>
+  
 <details><summary>스쿼드 등록</summary>
     <img src="https://github.com/user-attachments/assets/9153080b-5c0b-4992-89a9-d4dd2126500a" alt="스쿼드 등록" />
   </details>
 
   <details><summary>스쿼드 추천</summary>
-    <img src="https://github.com/user-attachments/assets/5b7f39d6-931b-4718-915a-ec57123572ef" alt="스쿼드 추천" />
+    <img src="https://github.com/user-attachments/assets/fe5c8fe5-a554-4dfe-bc96-22c84a3cd668" alt="스쿼드 추천" />
   </details>
 
   <details><summary>스쿼드 수정</summary>
@@ -387,16 +388,11 @@
 
 <br>
 
-<!--
 <details><summary><strong>프리랜서</strong></summary>
-<details><summary>프리랜서 목록 조회</summary>
-<img src="" alt="프리랜서 목록 조회" />
-</details>
-<details><summary>외부 개발자 등록</summary>
-<img src="" alt="외부 개발자 등록" />
+<details><summary>프리랜서 목록 조회 및 외부 개발자 등록</summary>
+<img src="https://github.com/user-attachments/assets/6771b008-39ac-4fd0-8022-58597b837530" alt="외부 개발자 등록" />
 </details>
 </details>
-<br> -->
 
 <details><summary><strong>통계</strong></summary>
 
