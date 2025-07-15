@@ -314,7 +314,7 @@
 <details><summary><strong> 프로젝트 </strong></summary>
 
   <details><summary>프로젝트 등록(관리자)</summary>
-  <img src="https://github.com/user-attachments/assets/618a854c-3a01-40e1-95f1-54471a9dfe39" alt="프로젝트 등록" />
+  <img src="https://github.com/user-attachments/assets/eb56b347-830b-41fa-b2dc-bdbd17c41025" alt="프로젝트 등록" />
   </details>
   
   <details><summary>프로젝트 수정/삭제(관리자)</summary>
@@ -367,7 +367,7 @@
 <details><summary><strong>스쿼드</strong></summary>
   
 <details><summary>스쿼드 등록</summary>
-    <img src="https://github.com/user-attachments/assets/9153080b-5c0b-4992-89a9-d4dd2126500a" alt="스쿼드 등록" />
+    <img src="https://github.com/user-attachments/assets/196d50ce-62b3-4ed6-961a-18010c7b69b1" alt="스쿼드 등록" />
   </details>
 
   <details><summary>스쿼드 추천</summary>
@@ -375,7 +375,7 @@
   </details>
 
   <details><summary>스쿼드 수정</summary>
-    <img src="https://github.com/user-attachments/assets/091a052c-265f-4405-97fe-1748322f4828" alt="스쿼드 수정" />
+    <img src="https://github.com/user-attachments/assets/4a898a31-b917-4465-a47c-c1c966c44993" alt="스쿼드 수정" />
   </details>
 
   <details><summary>스쿼드 공유</summary>
