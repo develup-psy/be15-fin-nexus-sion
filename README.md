@@ -273,89 +273,87 @@
 
 <details><summary><strong>개발자</strong></summary>
 
-<details><summary>개발자 등록</summary>
-
-<img src="https://github.com/user-attachments/assets/d08f1955-0af5-46d6-9a13-0d4a5abb722d" alt="개발자 등록" />
-</details>
-
-<details><summary>개발자 목록 조회</summary>
-<img src="https://github.com/user-attachments/assets/beb450e6-c32c-4ce7-9d79-4d154ea71aa8" alt="개발자 목록 조회" />
-</details>
-
-<details><summary>개발자 상세 조회</summary>
-<img src="https://github.com/user-attachments/assets/26913065-d88f-4e7d-864a-9c9a75aa0c89" alt="개발자 상세 조회" />
-</details>
-
-<details><summary>개발자 상태 변경</summary>
-<img src="https://github.com/user-attachments/assets/175e3b29-b394-4196-a6cf-2333325fbaf2" alt="개발자 상태 변경" />
-</details>
-
-<details><summary>개발자 수정</summary>
-<img src="https://github.com/user-attachments/assets/12f67485-8ec9-4269-bcc6-dcdc40d7c16f" alt="개발자 수정" />
-</details>
-
-<details><summary>개발자 삭제</summary>
-<img src="https://github.com/user-attachments/assets/b514293a-8e75-4bea-9c70-1ea1cb633860" alt="개발자 삭제" />
-</details>
+  <details><summary>개발자 등록</summary>
+  
+  <img src="https://github.com/user-attachments/assets/d08f1955-0af5-46d6-9a13-0d4a5abb722d" alt="개발자 등록" />
+  </details>
+  
+  <details><summary>개발자 목록 조회</summary>
+  <img src="https://github.com/user-attachments/assets/beb450e6-c32c-4ce7-9d79-4d154ea71aa8" alt="개발자 목록 조회" />
+  </details>
+  
+  <details><summary>개발자 상세 조회</summary>
+  <img src="https://github.com/user-attachments/assets/26913065-d88f-4e7d-864a-9c9a75aa0c89" alt="개발자 상세 조회" />
+  </details>
+  
+  <details><summary>개발자 상태 변경</summary>
+  <img src="https://github.com/user-attachments/assets/175e3b29-b394-4196-a6cf-2333325fbaf2" alt="개발자 상태 변경" />
+  </details>
+  
+  <details><summary>개발자 수정</summary>
+  <img src="https://github.com/user-attachments/assets/12f67485-8ec9-4269-bcc6-dcdc40d7c16f" alt="개발자 수정" />
+  </details>
+  
+  <details><summary>개발자 삭제</summary>
+  <img src="https://github.com/user-attachments/assets/b514293a-8e75-4bea-9c70-1ea1cb633860" alt="개발자 삭제" />
+  </details>
 
 </details>
 
 <br>
 
-<details><summary><strong> 프로젝트 </strong></summary></details>
+<details><summary><strong> 프로젝트 </strong></summary>
 
-<details><summary>프로젝트 등록(관리자)</summary>
-<img src="https://github.com/user-attachments/assets/618a854c-3a01-40e1-95f1-54471a9dfe39" alt="프로젝트 등록" />
-
+  <details><summary>프로젝트 등록(관리자)</summary>
+  <img src="https://github.com/user-attachments/assets/618a854c-3a01-40e1-95f1-54471a9dfe39" alt="프로젝트 등록" />
+  </details>
+  
+  <details><summary>프로젝트 수정/삭제(관리자)</summary>
+  <img src="https://github.com/user-attachments/assets/b14fe9e7-f0b7-46a3-8f2c-c5c10d62c5da" alt="프로젝트 삭제" />
+  </details>
+  
+  <details><summary>프로젝트 종료(관리자)</summary>
+  <img src="https://github.com/user-attachments/assets/0b7dcf2c-a04d-4e99-83ae-7f4b70784b0d" alt="프로젝트 종료" />
+  </details>
+  
+  <details><summary>프로젝트 목록 조회(필터)</summary>
+  <img src="https://github.com/user-attachments/assets/3dc99650-d3dd-4ed4-9482-62516bc2b464" alt="프로젝트 목록 조회 필터" />
+  </details>
+  
+  <details><summary>프로젝트 목록 조회(검색어)</summary>
+  <img src="https://github.com/user-attachments/assets/6daaa2f3-dcf4-4381-b65e-99bdea64b1c4" alt="프로젝트 목록 조회 검색어" />
+  </details>
+  
+  <details><summary>프로젝트 상세 조회</summary>
+  <img src="https://github.com/user-attachments/assets/f7f14f87-ec96-4954-86ff-85db48cd3144" alt="프로젝트 상세 조회" />
+  </details>
+  
+  <details><summary>개발자의 프로젝트 이력 등록 요청</summary>
+  <img src="https://github.com/user-attachments/assets/7d60ca91-a5bc-405a-a092-f346ddcf4e8b" alt="프로젝트 이력 등록 요청" />
+  </details>
+  
+  <details><summary>관리자의 프로젝트 이력 등록 요청 거부</summary>
+  <img src="https://github.com/user-attachments/assets/cdc3e27d-85dd-4bec-8108-e25d650a0379" alt="프로젝트 이력 등록 요청 거부" />
+  </details>
+  
+  <details><summary>개발자의 프로젝트 이력 등록 재요청</summary>
+  <img src="https://github.com/user-attachments/assets/a926df2e-c48f-4d2c-ac01-47a25fb8876b" alt="프로젝트 이력 등록 재요청" />
+  </details>
+  
+  <details><summary>관리자의 프로젝트 이력 등록 승인</summary>
+  <img src="https://github.com/user-attachments/assets/fa2fa2c0-8b24-4b9c-90cc-28b792fda9cb" alt="프로젝트 이력 등록 승인" />
+  </details>
+  
+  <details><summary>개발자의 프로젝트 이력 등록 승인 확인</summary>
+  <img src="https://github.com/user-attachments/assets/041c3548-2884-4965-a0e9-3b834ac95329" alt="프로젝트 이력 등록 승인 확인" />
+  </details>
+  
+  <details><summary>프로젝트 인원 대체 및 추천</summary>
+  <img src="https://github.com/user-attachments/assets/cce57e1f-a699-441b-82f8-d516694e840e" alt="프로젝트 인원 대체 및 추천" />
+  </details>
 </details>
-
-<details><summary>프로젝트 수정/삭제(관리자)</summary>
-<img src="https://github.com/user-attachments/assets/b14fe9e7-f0b7-46a3-8f2c-c5c10d62c5da" alt="프로젝트 삭제" />
-</details>
-
-<details><summary>프로젝트 종료(관리자)</summary>
-<img src="https://github.com/user-attachments/assets/0b7dcf2c-a04d-4e99-83ae-7f4b70784b0d" alt="프로젝트 종료" />
-</details>
-
-<details><summary>프로젝트 목록 조회(필터)</summary>
-<img src="https://github.com/user-attachments/assets/3dc99650-d3dd-4ed4-9482-62516bc2b464" alt="프로젝트 목록 조회 필터" />
-</details>
-
-<details><summary>프로젝트 목록 조회(검색어)</summary>
-<img src="https://github.com/user-attachments/assets/6daaa2f3-dcf4-4381-b65e-99bdea64b1c4" alt="프로젝트 목록 조회 검색어" />
-</details>
-
-<details><summary>프로젝트 상세 조회</summary>
-<img src="https://github.com/user-attachments/assets/f7f14f87-ec96-4954-86ff-85db48cd3144" alt="프로젝트 상세 조회" />
-</details>
-
-<details><summary>개발자의 프로젝트 이력 등록 요청</summary>
-<img src="https://github.com/user-attachments/assets/7d60ca91-a5bc-405a-a092-f346ddcf4e8b" alt="프로젝트 이력 등록 요청" />
-</details>
-
-<details><summary>관리자의 프로젝트 이력 등록 요청 거부</summary>
-<img src="https://github.com/user-attachments/assets/cdc3e27d-85dd-4bec-8108-e25d650a0379" alt="프로젝트 이력 등록 요청 거부" />
-</details>
-
-<details><summary>개발자의 프로젝트 이력 등록 재요청</summary>
-<img src="https://github.com/user-attachments/assets/a926df2e-c48f-4d2c-ac01-47a25fb8876b" alt="프로젝트 이력 등록 재요청" />
-</details>
-
-<details><summary>관리자의 프로젝트 이력 등록 승인</summary>
-<img src="https://github.com/user-attachments/assets/fa2fa2c0-8b24-4b9c-90cc-28b792fda9cb" alt="프로젝트 이력 등록 승인" />
-</details>
-
-<details><summary>개발자의 프로젝트 이력 등록 승인 확인</summary>
-<img src="https://github.com/user-attachments/assets/041c3548-2884-4965-a0e9-3b834ac95329" alt="프로젝트 이력 등록 승인 확인" />
-</details>
-
-<details><summary>프로젝트 인원 대체 및 추천</summary>
-<img src="https://github.com/user-attachments/assets/cce57e1f-a699-441b-82f8-d516694e840e" alt="프로젝트 인원 대체 및 추천" />
-
 
 <br>
-</details>
-</details>
 
 <details><summary><strong>스쿼드</strong></summary>
 <details><summary>스쿼드 등록</summary>
