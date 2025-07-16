@@ -68,7 +68,7 @@
 <a href="#figma">🪄 Figma(화면설계서)</a><br>
 <a href="#api">👾 API 명세서</a><br>
 <a href="#test">📄 단위 테스트</a><br>
-<a href="#demo">🪧 시연 gif</a>
+<a href="#demo">🪧 시연 gif</a><br>
 <a href="#cicdplan">✏️ CI/CD 계획</a>
 
 
