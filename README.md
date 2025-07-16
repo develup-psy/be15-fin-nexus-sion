@@ -69,6 +69,7 @@
 <a href="#api">👾 API 명세서</a><br>
 <a href="#test">📄 단위 테스트</a><br>
 <a href="#demo">🪧 시연 gif</a>
+<a href="#cicdplan">✏️ CI/CD 계획</a>
 
 
 <br>
@@ -502,4 +503,9 @@
 <details><summary>자격증 승인 관리</summary>
 <img src="https://github.com/user-attachments/assets/50aea1fd-d11f-453b-9035-db2a1651b5e7" alt="자격증 승인 관리" />
 </details>
+
+
+<h2 id="cicdplan">✏️ CI/CD 계획</h2>
+<img width="8760" height="3610" alt="CICD (1)" src="https://github.com/user-attachments/assets/43c3c97b-9526-43db-af51-eabaf7c5ff2d" />
+
 
