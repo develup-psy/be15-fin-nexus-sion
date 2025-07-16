@@ -254,14 +254,14 @@
 
 <h3 id="unit-test">
   <a href="https://drive.google.com/file/d/17vMFeUcY3hxOw3yBqv8Zc5Tg1UwTVfYy/view" target="_blank">
-    📄 단위 테스트 결과서
+    📙 단위 테스트 결과서
   </a>
 </h3> 
 <br>
 
 <h3 id="intg-test">
   <a href="https://docs.google.com/spreadsheets/d/1GrDOmd987vaQiI3pSXLBK9NU2OWbMYGAb3edGdWXD0o/edit?gid=1613105521#gid=1613105521" target="_blank">
-    📄 단위 테스트 결과서
+    📗 통합 테스트 결과서
   </a>
 </h3> 
 <br>
