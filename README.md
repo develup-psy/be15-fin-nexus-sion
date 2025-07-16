@@ -67,7 +67,8 @@
 <a href="#erd">📈 ERD</a><br>
 <a href="#figma">🪄 Figma(화면설계서)</a><br>
 <a href="#api">👾 API 명세서</a><br>
-<a href="#test">📄 단위 테스트</a><br>
+<a href="#unit-test">📙 단위 테스트</a><br>
+<a href="#intg-test">📗 통합 테스트</a><br>
 <a href="#demo">🪧 시연 gif</a><br>
 <a href="#cicdplan">✏️ CI/CD 계획</a>
 
@@ -251,8 +252,15 @@
 </h3> 
 <br>
 
-<h3 id="test">
+<h3 id="unit-test">
   <a href="https://drive.google.com/file/d/17vMFeUcY3hxOw3yBqv8Zc5Tg1UwTVfYy/view" target="_blank">
+    📄 단위 테스트 결과서
+  </a>
+</h3> 
+<br>
+
+<h3 id="intg-test">
+  <a href="https://docs.google.com/spreadsheets/d/1GrDOmd987vaQiI3pSXLBK9NU2OWbMYGAb3edGdWXD0o/edit?gid=1613105521#gid=1613105521" target="_blank">
     📄 단위 테스트 결과서
   </a>
 </h3> 
