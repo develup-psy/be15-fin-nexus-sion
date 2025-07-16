@@ -503,7 +503,7 @@
 <details><summary>자격증 승인 관리</summary>
 <img src="https://github.com/user-attachments/assets/50aea1fd-d11f-453b-9035-db2a1651b5e7" alt="자격증 승인 관리" />
 </details>
-
+</details>
 <br>
 
 <h2 id="cicdplan">✏️ CI/CD 계획</h2>
