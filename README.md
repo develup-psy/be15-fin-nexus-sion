@@ -77,7 +77,7 @@
 
 ###  **1-1. 프로젝트 선정 배경**
 
-<img width="500" height="250" alt="image" src="https://github.com/user-attachments/assets/a6db1ad2-c812-4634-a691-753020b5094c" />
+<img width="600" height="300" alt="image" src="https://github.com/user-attachments/assets/a6db1ad2-c812-4634-a691-753020b5094c" />
 <img width="600" height="300" alt="image" src="https://github.com/user-attachments/assets/6f7755e4-085f-4615-b570-11620cf2b0ae" />
 
 
