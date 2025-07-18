@@ -250,7 +250,7 @@
     9. Figma(화면설계서)
   </a>
 </h3> 
-<img src="https://github.com/user-attachments/assets/d2008c31-1d79-44e9-a011-082bbf8ef6dc" />
+<img src="https://github.com/user-attachments/assets/147417a4-a61e-4ee1-bce2-570c2dd22933" />
 <br>
 
 <h3 id="api">
