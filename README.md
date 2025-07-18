@@ -228,7 +228,7 @@
 </h3> <br>
 
 <h3 id="architecture">5. 시스템 아키텍쳐</h3>
-<img src="https://github.com/user-attachments/assets/001e9d98-2a3c-4948-a02b-9649b3b2de7b" />
+<img src="https://github.com/user-attachments/assets/72200dee-6cf9-48b9-9f65-f8bb48cb1e90" />
 <br>
 
 <h2 id="cicdplan">6. CI/CD 계획</h2>
