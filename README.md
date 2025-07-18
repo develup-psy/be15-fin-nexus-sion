@@ -76,12 +76,23 @@
 <br>
 
 <h2 id="git">1. Git 협업 약속</h2>
-1️⃣ 하나의 기능당 하나의 이슈 <br>
-2️⃣ 브랜치명에는 기능 타입(feat, fix 등)과 이슈 넘버를 넣어서 작성 (예: fix/300-fix-developer-search)<br>
-3️⃣ 백엔드 자동 포맷 실행 후(./gradlew spotlessAppl) pr 올리기<br>
-4️⃣ 리뷰어로 지정하면 디스코드 메시지가 오도록 연동<br>
-5️⃣ pr에는 승인이 1명 이상이어야 main에 머지가 가능<br>
-6️⃣ gemini-code-assist[bot] 가 달아준 코드 리뷰를 반영해서 수정하기<br>
+
+### 1️⃣ 하나의 기능당 하나의 이슈 <br>
+<img width="800" height="250" alt="image" src="https://github.com/user-attachments/assets/b2676d66-849d-4810-a8b3-7b1e88887e9b" />
+
+### 2️⃣ 브랜치명에는 기능 타입(feat, fix 등)과 이슈 넘버를 넣어서 작성 (예: fix/300-fix-developer-search)<br>
+
+### 3️⃣ 백엔드 자동 포맷 실행 후(./gradlew spotlessAppl) pr 올리기<br>
+<img width="487" height="610" alt="image" src="https://github.com/user-attachments/assets/73ae813c-c331-493c-8895-908eb7dd633e" />
+
+### 4️⃣ 리뷰어로 지정하면 디스코드 메시지가 오도록 연동<br>
+<img width="872" height="506" alt="image" src="https://github.com/user-attachments/assets/c9e6a9ae-1dc8-4094-9f54-c6b6d72724b5" />
+
+### 5️⃣ pr에는 승인이 1명 이상이어야 main에 머지가 가능<br>
+
+### 6️⃣ gemini-code-assist[bot] 가 달아준 코드 리뷰를 반영해서 수정하기<br>
+<img width="800" height="400" alt="image" src="https://github.com/user-attachments/assets/82c64c1c-cb9b-4825-959e-2ce93a7423d5" />
+
 
 <br>
 
@@ -243,7 +254,7 @@
 <img src="https://github.com/user-attachments/assets/001e9d98-2a3c-4948-a02b-9649b3b2de7b" />
 <br>
 
-<h3 id="requirements">
+<h3 id="wbs">
   <a href="https://docs.google.com/spreadsheets/d/1GrDOmd987vaQiI3pSXLBK9NU2OWbMYGAb3edGdWXD0o/edit?gid=108925002#gid=108925002" target="_blank">
     7. WBS
   </a>
