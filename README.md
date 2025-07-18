@@ -147,7 +147,7 @@
 
 <h3 id="planning">
   <a href="https://docs.google.com/document/d/1sGixpxJ4l9nXPV3sTUZbL084y2LVurlD_iGcDL25UAs/edit?tab=t.0" target="_blank">
-    2. 프로젝트 기획서
+   2. 프로젝트 기획서
   </a>
 </h3> <br>
 
@@ -215,11 +215,6 @@
 <img src="https://img.shields.io/badge/Jira-326CE5?style=for-the-badge&logo=jira&logoColor=white" />
 
 </div>
-
-
-
-
-
 
 <h3 id="requirements">
   <a href="https://docs.google.com/spreadsheets/d/1GrDOmd987vaQiI3pSXLBK9NU2OWbMYGAb3edGdWXD0o/edit?gid=230510313#gid=230510313" target="_blank">
