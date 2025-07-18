@@ -1,12 +1,12 @@
 
-# 🎥 SION
+#  SION
 
 <div align="center">
   <img src="https://github.com/user-attachments/assets/446a7a6f-69c7-46b8-b654-23fff8464afd" width="300" height="277"/>
 </div>
 <br><br>
 
-## 👨‍💻 DEVELOPERS
+##  DEVELOPERS
 
 
 <table>
@@ -55,7 +55,7 @@
 
 <br>
 
-## 📜 목차
+##  목차
 
 <a href="#git">1. Git 협업 약속</a><br>
 <a href="#project-intro">2. 프로젝트 소개</a><br>
@@ -86,16 +86,16 @@
 
 <h2 id="project-intro">2. 프로젝트 소개</h2>
 
-### 🎥 **SION: AI 기반으로 기술 중심 인재를 추천하고 관리하는 통합 인사 운영 시스템**
+###  **SION: AI 기반으로 기술 중심 인재를 추천하고 관리하는 통합 인사 운영 시스템**
 
 > 이 프로젝트는 프로젝트 수행에 필요한 인력을 빠르고 정확하게 구성할 수 있도록 돕는 AI 기반 인재풀 추천 및 스쿼드 구성 웹 어플리케이션입니다.
 사용자는 프로젝트의 도메인, 기술스택, 예산, 기간, 인원 구성 등의 조건을 입력하면, 시스템은 과거 이력과 기술 점수 등을 종합적으로 분석하여 최적의 인재를 자동
 추천합니다.
 
 
-### 🌟 주요 서비스 기능
+###  주요 서비스 기능
 
-✅ **개발자 관리**  
+ **개발자 관리**  
 기능 요약: 사내 모든 개발자 정보를 조회·관리
 
 상세 설명:
@@ -105,7 +105,7 @@
 - 신규 개발자 일괄 등록, 수정, 퇴사 처리 및 복구
 - 등록 이력 및 수정 기록 관리
 
-✅ **프로젝트 관리**  
+ **프로젝트 관리**  
 기능 요약: 프로젝트 정보 등록 및 평가 기능 제공
 
 상세 설명:
@@ -113,7 +113,7 @@
 - 프로젝트 종료 시 성과 평가 및 참여자의 기술점수 반영
 - 프로젝트별 이력 관리 및 분석 가능
 
-✅ **통계 및 기술 트렌드 분석**  
+ **통계 및 기술 트렌드 분석**  
 기능 요약: 시각화된 통계와 기술 트렌드 분석 제공
 
 상세 설명:
@@ -121,7 +121,7 @@
 - 직무별 참여 현황, 등급/단가/상태 기반 분석
 - 시계열 기반 기술 트렌드 및 성장 흐름 분석
 
-✅ **AI 기반 스쿼드 추천**  
+ **AI 기반 스쿼드 추천**  
 기능 요약: 조건 기반 자동 인재 추천 기능
 
 상세 설명:
@@ -129,7 +129,7 @@
 - 직무별 인재 리스트 제공, 구성원 교체·재추천 가능
 - 추천 근거 설명, 비교 기능, 결과 시각화 지원
 
-✅ **스쿼드 관리 및 배치**  
+ **스쿼드 관리 및 배치**  
 기능 요약: 스쿼드 저장·편집 및 프로젝트 배치 연동
 
 상세 설명:
@@ -137,7 +137,7 @@
 - 스쿼드의 상태(예: 배치됨, 임시저장) 관리
 - 프로젝트와 연동되어 실제 배치 가능
 
-✅ **스쿼드 관리 및 배치**  
+ **스쿼드 관리 및 배치**  
 기능 요약: 기업 단위 데이터 보안 및 독립성 보장
 
 상세 설명:
@@ -154,7 +154,7 @@
 
 <div align="center">
 
-### 🌿 Backend
+###  Backend
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
 <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
 <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white" />
@@ -172,7 +172,7 @@
 
 <div align="center">
 
-### 🌿 Frontend
+###  Frontend
 <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" />
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -187,7 +187,7 @@
 
 <div align="center">
 
-### 🗃️ Database
+###  Database
 <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" />
 <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
 <img src="https://img.shields.io/badge/Amazon_S3-569A31?style=for-the-badge&logo=amazonaws&logoColor=white" />
@@ -196,7 +196,7 @@
 
 <div align="center">
 
-### ☁️ Devops
+###  Devops
 <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
 <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
 <img src="https://img.shields.io/badge/Jenkins-DC382D?style=for-the-badge&logo=Jenkins&logoColor=white" />
@@ -205,7 +205,7 @@
 
 <div align="center">
 
-### 🛠️ Tools
+###  Tools
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
