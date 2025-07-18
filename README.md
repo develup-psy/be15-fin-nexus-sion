@@ -58,12 +58,12 @@
 
 ##  목차
 
-<a href="#git">1. Git 협업 약속</a><br>
-<a href="#project-intro">2. 프로젝트 소개</a><br>
-<a href="#planning">3. 프로젝트 기획서</a><br>
-<a href="#tech-stack">4. 기술 스택</a><br>
-<a href="#requirements">5. 요구사항 명세서</a><br>
-<a href="#architecture">6. 시스템 아키텍쳐</a><br>
+<a href="#project-intro">1. 프로젝트 소개</a><br>
+<a href="#planning">2. 프로젝트 기획서</a><br>
+<a href="#tech-stack">3. 기술 스택</a><br>
+<a href="#requirements">4. 요구사항 명세서</a><br>
+<a href="#architecture">5. 시스템 아키텍쳐</a><br>
+<a href="#cicdplan">6. CI/CD 계획</a>
 <a href="#wbs">7. WBS</a><br>
 <a href="#erd">8. ERD</a><br>
 <a href="#figma">9. Figma(화면설계서)</a><br>
@@ -71,54 +71,30 @@
 <a href="#unit-test">11. 단위 테스트</a><br>
 <a href="#intg-test">12. 통합 테스트</a><br>
 <a href="#demo">13. 시연 gif</a><br>
-<a href="#cicdplan">14. CI/CD 계획</a>
+<a href="#cicd">14. CI/CD</a>
 
-<br>
+<h2 id="project-intro">1. 프로젝트 소개</h2>
 
-<h2 id="git">1. Git 협업 약속</h2>
-
-### 1️⃣ 하나의 기능당 하나의 이슈 <br>
-<img width="800" height="250" alt="image" src="https://github.com/user-attachments/assets/b2676d66-849d-4810-a8b3-7b1e88887e9b" />
-
-### 2️⃣ 브랜치명에는 기능 타입(feat, fix 등)과 이슈 넘버를 넣어서 작성 (예: fix/300-fix-developer-search)<br>
-<img width="800" height="250" alt="image" src="https://github.com/user-attachments/assets/38ae792a-3e25-4f5b-bc6d-6a81afcd41a3" />
-
-### 3️⃣ 백엔드 자동 포맷 실행 후(./gradlew spotlessAppl) pr 올리기<br>
-<img width="487" height="610" alt="image" src="https://github.com/user-attachments/assets/73ae813c-c331-493c-8895-908eb7dd633e" />
-
-### 4️⃣ 리뷰어로 지정하면 디스코드 메시지가 오도록 연동<br>
-<img width="872" height="506" alt="image" src="https://github.com/user-attachments/assets/c9e6a9ae-1dc8-4094-9f54-c6b6d72724b5" />
-
-### 5️⃣ pr에는 승인이 1명 이상이어야 main에 머지가 가능<br>
-
-### 6️⃣ gemini-code-assist[bot] 가 달아준 코드 리뷰를 반영해서 수정하기<br>
-<img width="800" height="400" alt="image" src="https://github.com/user-attachments/assets/82c64c1c-cb9b-4825-959e-2ce93a7423d5" />
-
-
-<br>
-
-<h2 id="project-intro">2. 프로젝트 소개</h2>
-
-###  **프로젝트 선정 배경**
+###  **1-1. 프로젝트 선정 배경**
 
 <img width="957" height="496" alt="image" src="https://github.com/user-attachments/assets/a6db1ad2-c812-4634-a691-753020b5094c" />
 <img width="1052" height="509" alt="image" src="https://github.com/user-attachments/assets/6f7755e4-085f-4615-b570-11620cf2b0ae" />
 
 
-###  **기존 서비스와 차별점**
+###  **1-2. 기존 서비스와 차별점**
 
 <img width="1095" height="528" alt="image" src="https://github.com/user-attachments/assets/0029b027-55b8-4048-b9c3-05420b8b4a94" />
 
 
 
-###  **SION: AI 기반으로 기술 중심 인재를 추천하고 관리하는 통합 인사 운영 시스템**
+###  **1-3. SION: AI 기반으로 기술 중심 인재를 추천하고 관리하는 통합 인사 운영 시스템**
 
 > 이 프로젝트는 프로젝트 수행에 필요한 인력을 빠르고 정확하게 구성할 수 있도록 돕는 AI 기반 인재풀 추천 및 스쿼드 구성 웹 어플리케이션입니다.
 사용자는 프로젝트의 도메인, 기술스택, 예산, 기간, 인원 구성 등의 조건을 입력하면, 시스템은 과거 이력과 기술 점수 등을 종합적으로 분석하여 최적의 인재를 자동
 추천합니다.
 
 
-###  주요 서비스 기능
+###  1-4. 주요 서비스 기능
 
  **개발자 관리**  
 기능 요약: 사내 모든 개발자 정보를 조회·관리
@@ -171,11 +147,11 @@
 
 <h3 id="planning">
   <a href="https://docs.google.com/document/d/1sGixpxJ4l9nXPV3sTUZbL084y2LVurlD_iGcDL25UAs/edit?tab=t.0" target="_blank">
-    3. 프로젝트 기획서
+    2. 프로젝트 기획서
   </a>
 </h3> <br>
 
-<h2 id="tech-stack">4. 기술 스택</h2>
+<h2 id="tech-stack">3. 기술 스택</h2>
 
 <div align="center">
 
@@ -247,13 +223,16 @@
 
 <h3 id="requirements">
   <a href="https://docs.google.com/spreadsheets/d/1GrDOmd987vaQiI3pSXLBK9NU2OWbMYGAb3edGdWXD0o/edit?gid=230510313#gid=230510313" target="_blank">
-    5. 요구사항 명세서
+    4. 요구사항 명세서
   </a>
 </h3> <br>
 
-<h3 id="architecture">6. 시스템 아키텍쳐</h3>
+<h3 id="architecture">5. 시스템 아키텍쳐</h3>
 <img src="https://github.com/user-attachments/assets/001e9d98-2a3c-4948-a02b-9649b3b2de7b" />
 <br>
+
+<h2 id="cicdplan">6. CI/CD 계획</h2>
+<img width="8760" height="3610" alt="CICD (1)" src="https://github.com/user-attachments/assets/43c3c97b-9526-43db-af51-eabaf7c5ff2d" />
 
 <h3 id="wbs">
   <a href="https://docs.google.com/spreadsheets/d/1GrDOmd987vaQiI3pSXLBK9NU2OWbMYGAb3edGdWXD0o/edit?gid=108925002#gid=108925002" target="_blank">
@@ -543,7 +522,7 @@
 </details>
 <br>
 
-<h2 id="cicdplan">14 CI/CD 계획</h2>
+<h2 id="cicd">14. CI/CD</h2>
 <img width="8760" height="3610" alt="CICD (1)" src="https://github.com/user-attachments/assets/43c3c97b-9526-43db-af51-eabaf7c5ff2d" />
 
 
