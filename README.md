@@ -63,7 +63,7 @@
 <a href="#tech-stack">3. 기술 스택</a><br>
 <a href="#requirements">4. 요구사항 명세서</a><br>
 <a href="#architecture">5. 시스템 아키텍쳐</a><br>
-<a href="#cicdplan">6. CI/CD 계획</a>
+<a href="#cicdplan">6. CI/CD 계획</a><br>
 <a href="#wbs">7. WBS</a><br>
 <a href="#erd">8. ERD</a><br>
 <a href="#figma">9. Figma(화면설계서)</a><br>
