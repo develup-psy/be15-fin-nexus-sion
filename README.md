@@ -92,9 +92,11 @@
 <img width="957" height="496" alt="image" src="https://github.com/user-attachments/assets/a6db1ad2-c812-4634-a691-753020b5094c" />
 <img width="1052" height="509" alt="image" src="https://github.com/user-attachments/assets/6f7755e4-085f-4615-b570-11620cf2b0ae" />
 
+
 ###  **기존 서비스와 차별점**
 
 <img width="1095" height="528" alt="image" src="https://github.com/user-attachments/assets/0029b027-55b8-4048-b9c3-05420b8b4a94" />
+
 
 
 ###  **SION: AI 기반으로 기술 중심 인재를 추천하고 관리하는 통합 인사 운영 시스템**
