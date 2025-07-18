@@ -13,22 +13,22 @@
 <table>
   <tr>
     <td align="center">
-      <img src="https://github.com/user-attachments/assets/13ac46cc-ef68-414f-bffe-aac5360b5497" width="100" height="100">
+      <img width="950" height="950" alt="image" src="https://github.com/user-attachments/assets/89ffd076-a1ce-4cc5-a051-6b1ac7d9ccbf" />
     </td>
     <td align="center">
-      <img src="https://github.com/user-attachments/assets/8bde6eb9-cd10-43eb-a127-8b01752c6e6e" width="100" height="100">
+      <img width="950" height="950" alt="image" src="https://github.com/user-attachments/assets/50936be4-e99e-430b-9af5-eec467a3c0f6" />
     </td>
     <td align="center">
-      <img src="https://github.com/user-attachments/assets/8ce1750a-d6df-4048-b2f2-1579bb6c4126" width="100" height="100">
+      <img width="950" height="950" alt="image" src="https://github.com/user-attachments/assets/0793cf90-cb55-4439-ba93-d2c8ccedd17a" />
     </td>
     <td align="center">
-      <img src="https://github.com/user-attachments/assets/6436353c-2507-471c-8a02-6493ca0b7846" width="100" height="100">
+      <img width="950" height="950" alt="image" src="https://github.com/user-attachments/assets/b8b974ad-7cf4-4682-ab47-fa8416c41324" />
     </td>
     <td align="center">
-      <img src="https://github.com/user-attachments/assets/7eec2820-475d-4176-838d-5b8340f33e2c" width="100" height="100">
+      <img width="950" height="950" alt="image" src="https://github.com/user-attachments/assets/09d862c2-e674-49af-a89e-f9ffc3f4c996" />
     </td>
     <td align="center">
-      <img src="https://github.com/user-attachments/assets/7fac10d0-aec9-4448-836d-b3b6c11b8110" width="100" height="100">
+      <img width="950" height="950" alt="image" src="https://github.com/user-attachments/assets/90b431ec-cc55-4cc0-9a8a-24fdb2c131a9" />
     </td>
   </tr>
   <tr>
@@ -86,6 +86,16 @@
 <br>
 
 <h2 id="project-intro">2. 프로젝트 소개</h2>
+
+###  **프로젝트 선정 배경**
+
+<img width="957" height="496" alt="image" src="https://github.com/user-attachments/assets/a6db1ad2-c812-4634-a691-753020b5094c" />
+<img width="1052" height="509" alt="image" src="https://github.com/user-attachments/assets/6f7755e4-085f-4615-b570-11620cf2b0ae" />
+
+###  **기존 서비스와 차별점**
+
+<img width="1095" height="528" alt="image" src="https://github.com/user-attachments/assets/0029b027-55b8-4048-b9c3-05420b8b4a94" />
+
 
 ###  **SION: AI 기반으로 기술 중심 인재를 추천하고 관리하는 통합 인사 운영 시스템**
 
