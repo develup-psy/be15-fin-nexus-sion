@@ -2,9 +2,10 @@
 #  SION
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/446a7a6f-69c7-46b8-b654-23fff8464afd" width="300" height="277"/>
+  <img width="949" height="581" alt="image" src="https://github.com/user-attachments/assets/1588083c-b9c9-4cce-8fd8-8db1e820f75f" />
 </div>
 <br><br>
+
 
 ##  DEVELOPERS
 
