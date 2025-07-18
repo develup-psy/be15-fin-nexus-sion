@@ -81,6 +81,7 @@
 <img width="800" height="250" alt="image" src="https://github.com/user-attachments/assets/b2676d66-849d-4810-a8b3-7b1e88887e9b" />
 
 ### 2️⃣ 브랜치명에는 기능 타입(feat, fix 등)과 이슈 넘버를 넣어서 작성 (예: fix/300-fix-developer-search)<br>
+<img width="800" height="250" alt="image" src="https://github.com/user-attachments/assets/38ae792a-3e25-4f5b-bc6d-6a81afcd41a3" />
 
 ### 3️⃣ 백엔드 자동 포맷 실행 후(./gradlew spotlessAppl) pr 올리기<br>
 <img width="487" height="610" alt="image" src="https://github.com/user-attachments/assets/73ae813c-c331-493c-8895-908eb7dd633e" />
