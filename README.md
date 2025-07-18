@@ -57,25 +57,100 @@
 
 ## 📜 목차
 
-<a href="#tech-stack">💡 기술 스택</a><br>
-<a href="#git">:octocat: Git 협업 약속</a><br>
-<a href="#project-intro">📢 프로젝트 소개</a><br>
-<a href="#planning">🐾 프로젝트 기획서</a><br>
-<a href="#requirements">🔡 요구사항 명세서</a><br>
-<a href="#architecture">📟 시스템 아키텍쳐</a><br>
-<a href="#wbs">🗃️ WBS</a><br>
-<a href="#erd">📈 ERD</a><br>
-<a href="#figma">🪄 Figma(화면설계서)</a><br>
-<a href="#api">👾 API 명세서</a><br>
-<a href="#unit-test">📙 단위 테스트</a><br>
-<a href="#intg-test">📗 통합 테스트</a><br>
-<a href="#demo">🪧 시연 gif</a><br>
-<a href="#cicdplan">✏️ CI/CD 계획</a>
-
+<a href="#git">1. Git 협업 약속</a><br>
+<a href="#project-intro">2. 프로젝트 소개</a><br>
+<a href="#planning">3. 프로젝트 기획서</a><br>
+<a href="#tech-stack">4. 기술 스택</a><br>
+<a href="#requirements">5. 요구사항 명세서</a><br>
+<a href="#architecture">6. 시스템 아키텍쳐</a><br>
+<a href="#wbs">7. WBS</a><br>
+<a href="#erd">8. ERD</a><br>
+<a href="#figma">9. Figma(화면설계서)</a><br>
+<a href="#api">10. API 명세서</a><br>
+<a href="#unit-test">11. 단위 테스트</a><br>
+<a href="#intg-test">12. 통합 테스트</a><br>
+<a href="#demo">13. 시연 gif</a><br>
+<a href="#cicdplan">14. CI/CD 계획</a>
 
 <br>
 
-<h2 id="tech-stack">💡 기술 스택</h2>
+<h2 id="git">1. Git 협업 약속</h2>
+1️⃣ 하나의 기능당 하나의 이슈 <br>
+2️⃣ 브랜치명에는 기능 타입(feat, fix 등)과 이슈 넘버를 넣어서 작성 (예: fix/300-fix-developer-search)<br>
+3️⃣ 백엔드 자동 포맷 실행 후(./gradlew spotlessAppl) pr 올리기<br>
+4️⃣ 리뷰어로 지정하면 디스코드 메시지가 오도록 연동<br>
+5️⃣ pr에는 승인이 1명 이상이어야 main에 머지가 가능<br>
+6️⃣ gemini-code-assist[bot] 가 달아준 코드 리뷰를 반영해서 수정하기<br>
+
+<br>
+
+<h2 id="project-intro">2. 프로젝트 소개</h2>
+
+### 🎥 **SION: AI 기반으로 기술 중심 인재를 추천하고 관리하는 통합 인사 운영 시스템**
+
+> 이 프로젝트는 프로젝트 수행에 필요한 인력을 빠르고 정확하게 구성할 수 있도록 돕는 AI 기반 인재풀 추천 및 스쿼드 구성 웹 어플리케이션입니다.
+사용자는 프로젝트의 도메인, 기술스택, 예산, 기간, 인원 구성 등의 조건을 입력하면, 시스템은 과거 이력과 기술 점수 등을 종합적으로 분석하여 최적의 인재를 자동
+추천합니다.
+
+
+### 🌟 주요 서비스 기능
+
+✅ **개발자 관리**  
+기능 요약: 사내 모든 개발자 정보를 조회·관리
+
+상세 설명:
+
+- 기술스택, 프로젝트 이력, 자격/교육 등 상세 이력 확인
+- 이름, 상태, 직무 등 다양한 조건으로 필터·검색 가능
+- 신규 개발자 일괄 등록, 수정, 퇴사 처리 및 복구
+- 등록 이력 및 수정 기록 관리
+
+✅ **프로젝트 관리**  
+기능 요약: 프로젝트 정보 등록 및 평가 기능 제공
+
+상세 설명:
+- 도메인, 기술스택, 인력 구성, 예산 등의 정보 입력
+- 프로젝트 종료 시 성과 평가 및 참여자의 기술점수 반영
+- 프로젝트별 이력 관리 및 분석 가능
+
+✅ **통계 및 기술 트렌드 분석**  
+기능 요약: 시각화된 통계와 기술 트렌드 분석 제공
+
+상세 설명:
+- 기술스택별 인력 분포, 평균 경력, 활용 빈도 시각화
+- 직무별 참여 현황, 등급/단가/상태 기반 분석
+- 시계열 기반 기술 트렌드 및 성장 흐름 분석
+
+✅ **AI 기반 스쿼드 추천**  
+기능 요약: 조건 기반 자동 인재 추천 기능
+
+상세 설명:
+- 프로젝트 조건(도메인, 기술, 예산 등)에 맞는 개발자 자동 추천
+- 직무별 인재 리스트 제공, 구성원 교체·재추천 가능
+- 추천 근거 설명, 비교 기능, 결과 시각화 지원
+
+✅ **스쿼드 관리 및 배치**  
+기능 요약: 스쿼드 저장·편집 및 프로젝트 배치 연동
+
+상세 설명:
+- 스쿼드 저장, 조회, 수정 가능
+- 스쿼드의 상태(예: 배치됨, 임시저장) 관리
+- 프로젝트와 연동되어 실제 배치 가능
+
+✅ **스쿼드 관리 및 배치**  
+기능 요약: 기업 단위 데이터 보안 및 독립성 보장
+
+상세 설명:
+- 각 회사는 별도의 DB에서 인재·프로젝트 정보 관리
+- 접근 권한과 관리자 권한 분리로 보안성 강화
+
+<h3 id="planning">
+  <a href="https://docs.google.com/document/d/1sGixpxJ4l9nXPV3sTUZbL084y2LVurlD_iGcDL25UAs/edit?tab=t.0" target="_blank">
+    3. 프로젝트 기획서
+  </a>
+</h3> <br>
+
+<h2 id="tech-stack">4. 기술 스택</h2>
 
 <div align="center">
 
@@ -140,106 +215,35 @@
 
 </div>
 
-<br>
-
-<h2 id="git">:octocat: Git 협업 약속</h2>
-1️⃣ 하나의 기능당 하나의 이슈 <br>
-2️⃣ 브랜치명에는 기능 타입(feat, fix 등)과 이슈 넘버를 넣어서 작성 (예: fix/300-fix-developer-search)<br>
-3️⃣ 백엔드 자동 포맷 실행 후(./gradlew spotlessAppl) pr 올리기<br>
-4️⃣ 리뷰어로 지정하면 디스코드 메시지가 오도록 연동<br>
-5️⃣ pr에는 승인이 1명 이상이어야 main에 머지가 가능<br>
-6️⃣ gemini-code-assist[bot] 가 달아준 코드 리뷰를 반영해서 수정하기<br>
-
-<h2 id="project-intro">📢 프로젝트 소개</h2>
-
-### 🎥 **SION: AI 기반으로 기술 중심 인재를 추천하고 관리하는 통합 인사 운영 시스템**
-
-> 이 프로젝트는 프로젝트 수행에 필요한 인력을 빠르고 정확하게 구성할 수 있도록 돕는 AI 기반 인재풀 추천 및 스쿼드 구성 웹 어플리케이션입니다.
-사용자는 프로젝트의 도메인, 기술스택, 예산, 기간, 인원 구성 등의 조건을 입력하면, 시스템은 과거 이력과 기술 점수 등을 종합적으로 분석하여 최적의 인재를 자동
-추천합니다.
 
 
-### 🌟 주요 서비스 기능
 
-✅ **개발자 관리**  
-기능 요약: 사내 모든 개발자 정보를 조회·관리
 
-상세 설명:
-
-- 기술스택, 프로젝트 이력, 자격/교육 등 상세 이력 확인
-- 이름, 상태, 직무 등 다양한 조건으로 필터·검색 가능
-- 신규 개발자 일괄 등록, 수정, 퇴사 처리 및 복구
-- 등록 이력 및 수정 기록 관리
-
-✅ **프로젝트 관리**  
-기능 요약: 프로젝트 정보 등록 및 평가 기능 제공
-
-상세 설명:
-- 도메인, 기술스택, 인력 구성, 예산 등의 정보 입력
-- 프로젝트 종료 시 성과 평가 및 참여자의 기술점수 반영
-- 프로젝트별 이력 관리 및 분석 가능
-
-✅ **통계 및 기술 트렌드 분석**  
-기능 요약: 시각화된 통계와 기술 트렌드 분석 제공
-
-상세 설명:
-- 기술스택별 인력 분포, 평균 경력, 활용 빈도 시각화
-- 직무별 참여 현황, 등급/단가/상태 기반 분석
-- 시계열 기반 기술 트렌드 및 성장 흐름 분석
-
-✅ **AI 기반 스쿼드 추천**  
-기능 요약: 조건 기반 자동 인재 추천 기능
-
-상세 설명:
-- 프로젝트 조건(도메인, 기술, 예산 등)에 맞는 개발자 자동 추천
-- 직무별 인재 리스트 제공, 구성원 교체·재추천 가능
-- 추천 근거 설명, 비교 기능, 결과 시각화 지원
-
-✅ **스쿼드 관리 및 배치**  
-기능 요약: 스쿼드 저장·편집 및 프로젝트 배치 연동
-
-상세 설명:
-- 스쿼드 저장, 조회, 수정 가능
-- 스쿼드의 상태(예: 배치됨, 임시저장) 관리
-- 프로젝트와 연동되어 실제 배치 가능
-
-✅ **스쿼드 관리 및 배치**  
-기능 요약: 기업 단위 데이터 보안 및 독립성 보장
-
-상세 설명:
-- 각 회사는 별도의 DB에서 인재·프로젝트 정보 관리
-- 접근 권한과 관리자 권한 분리로 보안성 강화
-
-<h3 id="planning">
-  <a href="https://docs.google.com/document/d/1sGixpxJ4l9nXPV3sTUZbL084y2LVurlD_iGcDL25UAs/edit?tab=t.0" target="_blank">
-    🐾 프로젝트 기획서
-  </a>
-</h3> <br>
 
 <h3 id="requirements">
   <a href="https://docs.google.com/spreadsheets/d/1GrDOmd987vaQiI3pSXLBK9NU2OWbMYGAb3edGdWXD0o/edit?gid=230510313#gid=230510313" target="_blank">
-    🔡 요구사항 명세서
+    5. 요구사항 명세서
   </a>
 </h3> <br>
 
-<h3 id="architecture">📟 시스템 아키텍쳐</h3>
+<h3 id="architecture">6. 시스템 아키텍쳐</h3>
 <img src="https://github.com/user-attachments/assets/001e9d98-2a3c-4948-a02b-9649b3b2de7b" />
 <br>
 
 <h3 id="requirements">
   <a href="https://docs.google.com/spreadsheets/d/1GrDOmd987vaQiI3pSXLBK9NU2OWbMYGAb3edGdWXD0o/edit?gid=108925002#gid=108925002" target="_blank">
-    🗃️ WBS
+    7. WBS
   </a>
 </h3> 
 <br>
 
-<h3 id="erd">📈 ERD</h3>
+<h3 id="erd">8. ERD</h3>
 <img src="https://github.com/user-attachments/assets/a07a5d5a-6a9d-47db-a4db-0b7da8d493a9" />
 <br>
 
 <h3 id="figma">
   <a href="https://www.figma.com/design/TW7n0XzdVkNInCWernHCvD/be-15-fin?node-id=413-1769&t=sBHWtZHO7Nf4EZ2s-0" target="_blank">
-    🪄 Figma(화면설계서)
+    9. Figma(화면설계서)
   </a>
 </h3> 
 <img src="https://github.com/user-attachments/assets/d2008c31-1d79-44e9-a011-082bbf8ef6dc" />
@@ -247,27 +251,27 @@
 
 <h3 id="api">
   <a href="https://docs.google.com/spreadsheets/d/1GrDOmd987vaQiI3pSXLBK9NU2OWbMYGAb3edGdWXD0o/edit?gid=1268650155#gid=1268650155" target="_blank">
-    👾 API 명세서
+    10. API 명세서
   </a>
 </h3> 
 <br>
 
 <h3 id="unit-test">
   <a href="https://drive.google.com/file/d/17vMFeUcY3hxOw3yBqv8Zc5Tg1UwTVfYy/view" target="_blank">
-    📙 단위 테스트 결과서
+    11. 단위 테스트 결과서
   </a>
 </h3> 
 <br>
 
 <h3 id="intg-test">
   <a href="https://docs.google.com/spreadsheets/d/1GrDOmd987vaQiI3pSXLBK9NU2OWbMYGAb3edGdWXD0o/edit?gid=1613105521#gid=1613105521" target="_blank">
-    📗 통합 테스트 결과서
+    12. 통합 테스트 결과서
   </a>
 </h3> 
 <br>
 
 
-<h3 id="demo">🪧 시연 gif</h3>
+<h3 id="demo">13. 시연 gif</h3>
 
 
 <details><summary><strong>회원</strong></summary>
@@ -514,7 +518,7 @@
 </details>
 <br>
 
-<h2 id="cicdplan">✏️ CI/CD 계획</h2>
+<h2 id="cicdplan">14 CI/CD 계획</h2>
 <img width="8760" height="3610" alt="CICD (1)" src="https://github.com/user-attachments/assets/43c3c97b-9526-43db-af51-eabaf7c5ff2d" />
 
 
