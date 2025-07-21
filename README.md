@@ -517,7 +517,21 @@
 </details>
 <br>
 
-<h2 id="cicd">14. CI/CD</h2>
-<img width="8760" height="3610" alt="CICD (1)" src="https://github.com/user-attachments/assets/43c3c97b-9526-43db-af51-eabaf7c5ff2d" />
+
+<details><summary><h2 id="cicd">14. CI/CD</h2></summary>
+  <details><summary>Frontend CI/CD GithubAction workflow</summary>
+  <img src="https://github.com/user-attachments/assets/e79ab596-96d6-403f-861a-b4681d037ecd" alt="frontend cicd" />
+  </details>
+  <details><summary>Backend CI/CD GithubAction workflow</summary>
+  <img src="https://github.com/user-attachments/assets/73d69f9c-2793-4148-a80e-b38f3ee4b1be" alt="frontend cicd" />
+  </details>
+  <details><summary>AI Server CI/CD GithubAction workflow</summary>
+  <img src="https://github.com/user-attachments/assets/1b80a8b7-ee56-4b5a-9aab-b06e32c1bd88" alt="frontend cicd" />
+  </details>
+  <details><summary>ArgoCD Application</summary>
+  <img src="https://github.com/user-attachments/assets/f304629d-9c66-4deb-ae63-e6b857770c16" alt="frontend cicd" />
+  </details>
+</details>
+
 
 
