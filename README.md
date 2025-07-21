@@ -518,7 +518,7 @@
 <br>
 
 
-<details><summary><h2 id="cicd">14. CI/CD</h2></summary>
+<h2 id="cicd">14. CI/CD</h2>
   <details><summary>Frontend CI/CD GithubAction workflow</summary>
   <img src="https://github.com/user-attachments/assets/e79ab596-96d6-403f-861a-b4681d037ecd" alt="frontend cicd" />
   </details>
@@ -531,7 +531,7 @@
   <details><summary>ArgoCD Application</summary>
   <img src="https://github.com/user-attachments/assets/f304629d-9c66-4deb-ae63-e6b857770c16" alt="frontend cicd" />
   </details>
-</details>
+
 
 
 
