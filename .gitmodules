@@ -1,12 +1,12 @@
 [submodule "sion-be"]
 	path = sion-be
-	url = https://github.com/be15-fin-Nexus-SION/be15-fin-Nexus-SION-BE
+	url = https://github.com/develup-psy/be15-fin-Nexus-SION-BE
 	branch = main
 [submodule "sion-fe"]
 	path = sion-fe
-	url = https://github.com/be15-fin-Nexus-SION/be15-fin-Nexus-SION-FE
+	url = https://github.com/develup-psy/be15-fin-Nexus-SION-FE.git
 	branch = main
 [submodule "sion-ai"]
 	path = sion-ai
-	url = https://github.com/be15-fin-Nexus-SION/be15-fin-Nexus-SION-AI
+	url = https://github.com/develup-psy/be15-fin-Nexus-SION-AI
 	branch = main
